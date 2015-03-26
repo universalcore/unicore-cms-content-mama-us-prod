@@ -1,0 +1,29 @@
+{
+  "subtitle": "SPA Where to have my baby?", 
+  "description": "Una cl\u00ednica o un hospital es lo m\u00e1s seguro", 
+  "language": "spa_MX", 
+  "title": "\u00bfD\u00f3nde es bueno tener a mi beb\u00e9?", 
+  "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
+  "created_at": "2015-03-26T12:52:07.961081+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T12:52:07.961299+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nAhora que se va acercando m\u00e1s la fecha del nacimiento de tu beb\u00e9, es hora de hacer planes.\r\n\r\nUna cl\u00ednica o un hospital es el lugar m\u00e1s seguro para tener a tu beb\u00e9. Revisa cu\u00e1nto tiempo te llevar\u00e1 llegar hasta all\u00ed. Habla con tu familia sobre el medio de transporte para llegar y  decide qui\u00e9n va a estar contigo. Escoge a alguien en quien conf\u00edas.\r\n\r\nSi no puedes llegar a una cl\u00ednica o un hospital para el nacimiento:\r\n\r\n - \tEs muy importante que te atienda una persona con entrenamiento m\u00e9dico. En la mayor\u00eda de los casos ser\u00e1 una partera, pero un param\u00e9dico o una enfermera certificados tambi\u00e9n pueden ayudar. Aseg\u00farate de que tu familia sepa c\u00f3mo contactar a esta persona.  Es posible que la partera o la persona que te atienda durante el parto tenga un estuche con todo lo que necesita. Incluir\u00e1 una s\u00e1bana de pl\u00e1stico, guantes, cordel limpio y herramientas para cortar el cord\u00f3n umbilical de tu beb\u00e9. \r\n\r\n - \tSi no puedes conseguir un estuche para el parto, busca una s\u00e1bana limpia para tener a tu beb\u00e9 sobre ella y 2 trapos limpios, uno para secar a tu beb\u00e9 y el otro para envolverlo. Ten listo un cuchillo filoso limpio o un par de tijeras limpias. \r\n\r\n - \tTu partera tiene que lavarse las manos y t\u00fa tienes que lavarte entre las piernas. Ten listos jab\u00f3n y mucha agua limpia, libre de contaminaci\u00f3n y hervida.\r\n\r\n - \tUna vez haya nacido tu beb\u00e9, ve tan pronto como puedas a la cl\u00ednica o el hospital.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-where-have-baby", 
+  "uuid": "87bc4f77ba6649d2a64a4e38b2823ed9"
+}
