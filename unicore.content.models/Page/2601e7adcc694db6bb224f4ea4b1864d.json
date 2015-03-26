@@ -3,15 +3,15 @@
   "description": "Inf\u00f3rmate de cu\u00e1ndo buscar ayuda", 
   "language": "spa_MX", 
   "title": "Se\u00f1ales de peligro en el nacimiento", 
-  "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
-  "created_at": "2015-03-26T12:59:44.257504+00:00", 
+  "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
+  "created_at": "2015-03-26T12:59:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T12:59:44.257718+00:00", 
+  "modified_at": "2015-03-26T13:00:41.331504+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-danger-signs-birth", 
   "uuid": "2601e7adcc694db6bb224f4ea4b1864d"
