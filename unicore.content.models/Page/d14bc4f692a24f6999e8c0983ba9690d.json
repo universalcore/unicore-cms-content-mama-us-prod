@@ -1,0 +1,29 @@
+{
+  "subtitle": "SPA Clean, safe water", 
+  "description": "\u00bfC\u00f3mo puedo hacer que el agua est\u00e9 limpia?", 
+  "language": "spa_MX", 
+  "title": "Agua limpia y sana", 
+  "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
+  "created_at": "2015-03-26T12:45:17.850962+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T12:45:17.851398+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nEs muy importante beber agua potable o hervida y usar agua limpia y libre de contaminaci\u00f3n para lavarte cuando est\u00e1s embarazada. El agua te mantiene fresca y saludable, y puede ayudar a eliminar los microbios de tu cuerpo.\r\n\r\nA veces el agua se ve limpia, pero tiene microbios invisibles que pueden  hacer que se enfermen gravemente t\u00fa y tu beb\u00e9. Evita usar agua sucia, preparando agua limpia cada ma\u00f1ana para cada d\u00eda.\r\n\r\nSi no hay agua potable (agua limpia) donde vives, puedes hacer que est\u00e9 limpia. Vierte el agua sobre un trapo limpio de algod\u00f3n y luego hi\u00e9rvela. Esto elimina los microbios. El agua hervida fr\u00eda es segura y la puedes beber. Hierve una olla grande todos los d\u00edas. T\u00e1pala y mantenla en un lugar fresco donde no estorbe. Esto evitar\u00e1 que entren las moscas y la suciedad.\r\n\r\nSi no puedes filtrar y hervir tu agua, preg\u00fantale a tu doctor qu\u00e9 otros m\u00e9todos puedes usar para hacer que tu agua sea segura para beber.\r\n\r\nComprar agua embotellada por lo general es bueno, porque casi siempre el agua es limpia y segura. Revisa siempre la tapa del agua embotellada que compres para asegurarte de que el sello no est\u00e9 roto. Si el sello est\u00e1 roto, quiere decir que ya alguien abri\u00f3 esa botella. Quiz\u00e1s la rellenaron con agua sucia, as\u00ed que no te la tomes.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-clean-safe-water", 
+  "uuid": "d14bc4f692a24f6999e8c0983ba9690d"
+}
