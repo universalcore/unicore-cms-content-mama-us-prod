@@ -1,0 +1,29 @@
+{
+  "subtitle": "SPA Mealtimes with my baby", 
+  "description": "Haz la hora de las comidas divertida e interesante", 
+  "language": "spa_MX", 
+  "title": "Las comidas con mi beb\u00e9", 
+  "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
+  "created_at": "2015-03-31T08:40:53.383557+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-31T08:40:53.383763+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nTu beb\u00e9 necesita comer alimentos s\u00f3lidos cuando tiene 6 meses. Pero tambi\u00e9n necesita todav\u00eda la leche de tu pecho.\r\n\r\nA medida que crezca, necesitar\u00e1 m\u00e1s alimentos y m\u00e1s variados. Pero los beb\u00e9s pueden ser un poco melindrosos con la comida y pueden perder inter\u00e9s en los alimentos muy f\u00e1cilmente.\r\n\r\nAqu\u00ed tienes unos consejos para asegurarte de que tu beb\u00e9 coma bien:\r\n\r\n - \tDale muchos alimentos sabrosos. T\u00f3mate tu tiempo. Si\u00e9ntate y habla con \u00e9l mientras come. Comer es una habilidad nueva para \u00e9l, y todav\u00eda est\u00e1 aprendiendo.\r\n\r\n - \tSi no quiere comer, s\u00e9 paciente. No lo fuerces. No le des az\u00facar ni comidas poco sanas. No contienen nada bueno y son malas para tu beb\u00e9.\r\n\r\n - \tDale alimentos de muchos colores, sabores y texturas. A medida que los beb\u00e9s crecen, su gusto cambia mucho. \u00a1Los alimentos que ahora odia quiz\u00e1s se convertir\u00e1n en sus favoritos en unas semanas!\r\n\r\n - \tHaz las horas de las comidas divertidas. Aseg\u00farate que est\u00e9 c\u00f3modo y que sea un rato agradable para los dos.\r\n\r\n - \tM\u00edrale a los ojos, sonr\u00ede y h\u00e1blale. Las comidas deben ser un rato para compartir. Esto le ayudar\u00e1 a comer y tambi\u00e9n le ayudar\u00e1 a aprender palabras nuevas y a socializar.\r\n\r\n - \tSi tu beb\u00e9 se distrae f\u00e1cilmente mientras come, ll\u00e9valo a un lugar tranquilo y an\u00edmalo con suavidad a que coma.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "las-comidas-con-mi-bebe", 
+  "uuid": "f1c096ba9a3c4cd7a4e3f19b4f037b4b"
+}
