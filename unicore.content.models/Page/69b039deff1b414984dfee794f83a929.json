@@ -4,14 +4,14 @@
   "language": "spa_MX", 
   "title": "\u00a1Ten a tu beb\u00e9 cerca de ti!", 
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
-  "created_at": "2015-03-26T13:00:29.337295+00:00", 
+  "created_at": "2015-03-26T13:00:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T13:00:29.337622+00:00", 
+  "modified_at": "2015-04-07T09:22:30.108606+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-hold-your-newborn-close", 
   "uuid": "69b039deff1b414984dfee794f83a929"
