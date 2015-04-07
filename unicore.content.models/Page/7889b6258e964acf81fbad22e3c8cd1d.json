@@ -4,14 +4,14 @@
   "language": "spa_MX", 
   "title": "VIH: \u00bfC\u00f3mo puedo proteger a mi beb\u00e9?", 
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
-  "created_at": "2015-03-31T08:36:18.662011+00:00", 
+  "created_at": "2015-03-31T08:36:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-31T08:36:18.662223+00:00", 
+  "modified_at": "2015-04-07T09:41:45.824596+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-hiv-how-do-i-protect", 
   "uuid": "7889b6258e964acf81fbad22e3c8cd1d"
