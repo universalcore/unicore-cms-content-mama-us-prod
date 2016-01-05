@@ -1,0 +1,29 @@
+{
+  "subtitle": "Breast is best if you are living with HIV", 
+  "description": "Breast is best if you are living with HIV", 
+  "language": "eng_GB", 
+  "title": "Breastmilk combats HIV", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2016-01-05T11:49:11.504384+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-01-05T11:49:11.504672+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIf you are living with HIV, you may wonder if breastfeeding is a good thing. \r\n\r\nRemember, you can significantly reduce the risk of passing on HIV to your baby by feeding him only breastmilk and his antiretroviral (ARV) tablets every day. Do not forget to take your baby to the hospital at 6 weeks so he can have a test for HIV. \r\n\r\nYour baby will need lots of food to grow. The best food for him is your breastmilk. Your milk is full of goodness that is perfect for your baby. It has all he needs to grow big and strong. It can also help to protect him from some diseases.\r\n\r\nIf you feed him breastmilk and nothing else, not even water, for the first 6 months, you can help give him the best start in life. Even if you need to go back to work before this time, you can squeeze out your breastmilk and leave it for him. Your doctor, a midwife or a nurse can help you to learn how to do this.\r\n\r\nTake advantage of your precious milk and let your baby have it as often as he wants. Let him feed until he has had enough. It will keep him healthy and happy. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "breastmilk-combats-hiv", 
+  "uuid": "60e995039b4c40a6a227c52f4a414599"
+}
