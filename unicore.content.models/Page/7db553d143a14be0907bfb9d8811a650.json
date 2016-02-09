@@ -4,14 +4,14 @@
   "language": "spa_MX", 
   "title": "\u00bfC\u00f3mo puedo protegerme del zika?", 
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
-  "created_at": "2016-02-06T16:39:16.555664+00:00", 
+  "created_at": "2016-02-06T16:39:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-06T16:39:16.555930+00:00", 
+  "modified_at": "2016-02-09T11:41:52.613409+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "821a346d00d44a4d9052c2289320e35f"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\n\r\nHay 2 cosas que te ayudar\u00e1n a evitar el zika:\r\n\r\n\u2022\tNo dejes que los mosquitos se reproduzcan\r\n\r\n\u2022\tEvita una picadura de mosquito\r\n\r\nLos mosquitos se juntan donde hay agua estancada y basura. Ponen sus huevos en el agua estancada.\r\n\r\nDeshazte de todos los cubos, botellas y otros contenedores que recogen agua. S\u00e1calos de la zona de afuera de tu casa o de tu trabajo. Cubre los dep\u00f3sitos de agua para que los mosquitos no puedan meterse. Desbloquea los desag\u00fces para que el agua corra y se vaya. \r\n\r\nMete la basura en bolsas de pl\u00e1stico. Mete las bolsas en un contenedor cerrado para que los animales no puedan romperlas y abrirlas. \r\n\r\nMant\u00e9n a los mosquitos fuera de tu casa. Usa pantallas contra mosquitos y mosquiteros en ventanas y puertas. Mant\u00e9n las ventanas y las puertas cerradas.\r\n\r\nEn algunos lugares,  quiz\u00e1s rociar\u00e1n un desinfectante en toda la zona para matar a los mosquitos.  \r\n\r\nAqu\u00ed tienes algunas ideas:\r\n\r\n\u2022\tLleva ropa que cubra tu piel. A los mosquitos les atraen los colores oscuros, as\u00ed que lleva ropa clara.\r\n\r\n\u2022\tUsa repelente contra insectos en tu piel. Pregunta en tu farmacia o centro de salud cu\u00e1l debes usar. O busca uno que contenga DEET.\r\n\r\n\u2022\tUsa un mosquitero. Descansa y duerme debajo de un mosquitero tratado con insecticida. \u00dasalo d\u00eda y noche, incluso cuando hace calor.\r\n\r\n\u2022\tCierra bien los bordes del mosquitero alrededor de ti. Si tiene agujeros, c\u00fabrelos cosiendo un trozo de tela.\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\n\r\nHay 2 cosas que te ayudar\u00e1n a evitar el zika:\r\n\r\n\u2022\tNo dejes que los mosquitos se reproduzcan\r\n\r\n\u2022\tEvita una picadura de mosquito\r\n\r\nLos mosquitos se juntan donde hay agua estancada y basura. Ponen sus huevos en el agua estancada.\r\n\r\nDeshazte de todos los cubos, botellas y otros contenedores que recogen agua. S\u00e1calos de la zona de afuera de tu casa o de tu trabajo. Cubre los dep\u00f3sitos de agua para que los mosquitos no puedan meterse. Desbloquea los desag\u00fces para que el agua corra y se vaya. \r\n\r\nMete la basura en bolsas de pl\u00e1stico. Mete las bolsas en un contenedor cerrado para que los animales no puedan romperlas y abrirlas. \r\n\r\nMant\u00e9n a los mosquitos fuera de tu casa. Usa pantallas contra mosquitos y mosquiteros en ventanas y puertas. Mant\u00e9n las ventanas y las puertas cerradas.\r\n\r\nEn algunos lugares,  quiz\u00e1s rociar\u00e1n un desinfectante en toda la zona para matar a los mosquitos.  \r\n\r\nAqu\u00ed tienes algunas ideas:\r\n\r\n\u2022\tLleva ropa que cubra tu piel. A los mosquitos les atraen los colores oscuros, as\u00ed que lleva ropa clara.\r\n\r\n\u2022\tUsa repelente contra insectos en tu piel. Pregunta en tu farmacia o centro de salud cu\u00e1l debes usar. O busca uno que contenga DEET.\r\n\r\n\u2022\tUsa un mosquitero. Descansa y duerme debajo de un mosquitero tratado con insecticida. \u00dasalo d\u00eda y noche, incluso cuando hace calor.\r\n\r\n\u2022\tCierra bien los bordes del mosquitero alrededor de ti. Si tiene agujeros, c\u00fabrelos cosiendo un trozo de tela.\r\n\r\nPhoto Credit: \u00a9 CDC/Division of Vector-borne Diseases\r\n", 
   "source": "c9b49f53636944debc8acc7665367983", 
   "featured": true, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-puedo-protegerme-del-zika", 
   "uuid": "7db553d143a14be0907bfb9d8811a650"
