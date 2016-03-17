@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy Spanish mx", 
+  "uuid": "8bc4a31038864b1594918f7266dc4b7e", 
+  "language": "spa_MX", 
+  "title": "Embarazo", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "pregnancy", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

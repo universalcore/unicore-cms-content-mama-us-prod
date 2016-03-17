@@ -1,0 +1,36 @@
+{
+  "subtitle": "SPA Why do I need calcium?", 
+  "description": "El calcio ayuda a los huesos a crecer", 
+  "language": "spa_MX", 
+  "title": "\u00bfPor qu\u00e9 necesito calcio?", 
+  "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
+  "created_at": "2015-03-26T12:49:20+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-12-15T09:20:38.521406+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "06abe57f71184faa90a51084889d5560", 
+    "b40173d64f2349bd9fbd8bc3c5e55870", 
+    "77c7f9abdcb84fb7aac5746059fbf8a4", 
+    "da61ec7a9e364b88ae3744e4febb57b7", 
+    "b80916dcb01a4a2494ed45edd789ba17", 
+    "761af2668eff4929b83d07e63cb911b6"
+  ], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nTu beb\u00e9 y t\u00fa necesitan mucho calcio. Come o bebe alimentos que contengan calcio todos los d\u00edas. Te ayudar\u00e1n a ti a estar sana y a tu beb\u00e9 a desarrollar huesos y dientes fuertes.\r\n\r\nEl calcio es un mineral que ayuda a que crezcan los huesos y los dientes. Necesitas mucho calcio, porque tus huesos tambi\u00e9n est\u00e1n creciendo. Tambi\u00e9n podr\u00eda ayudar a disminuir el riesgo de tener alta la presi\u00f3n.\r\n\r\nEl calcio forma los huesos y los dientes de tu beb\u00e9. Tambi\u00e9n ayuda a controlar el ritmo de su coraz\u00f3n. Si no est\u00e1s tomando suficiente calcio, a tu beb\u00e9 no le va a faltar, pero a ti s\u00ed. Eso es porque, cuando se trata de minerales, tu cuerpo pone a tu beb\u00e9 primero y se los pasa a \u00e9l.\r\n\r\nPuedes obtener calcio de:\r\n\r\n - \tleche de vaca y de soya\r\n\r\n - \ttortillas de ma\u00edz \r\n\r\n - \tverduras de hojas verdes\r\n\r\n - \tpescado, sobre todo pescado aceitoso como las sardinas\r\n\r\nPara ayudarte a absorber el calcio, tambi\u00e9n necesitas asegurarte de obtener suficiente vitamina D. Tu cuerpo hace vitamina D a partir de la luz del sol.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 21, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spa-why-do-i-need-calcium", 
+  "uuid": "742a0f5db9f748ab912e706ddfe39fc5"
+}

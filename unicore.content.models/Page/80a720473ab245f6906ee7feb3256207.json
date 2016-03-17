@@ -1,0 +1,32 @@
+{
+  "subtitle": "Have a skilled birth attendant", 
+  "description": "Have a skilled birth attendant", 
+  "language": "eng_GB", 
+  "title": "How to have a safe birth ", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2016-01-05T11:35:12+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-01-07T09:51:47.004435+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "586f6a7bef864d8c86badd4efd4774c9", 
+    "b721756d1474458d83a6cac4c87afc95"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter \r\n\r\nIt is safest, and recommended, to give birth in a clinic or hospital, where there is help if there are problems.\r\n\r\nIf you cannot have your baby at a hospital or clinic, here is how to have a safe birth.\r\n\r\n\u2022\tPlan to have a medically skilled birth attendant with you, a midwife, a certified paramedic or a nurse can help. They will help you to give birth safely and will do what is necessary if there is a problem.\r\n\r\n\u2022\tMake sure you have the phone number of your birth attendant so you can call them in an emergency. \r\n\r\n\u2022\tHave a transportation plan. One idea is to have ambulance and taxi numbers ready. Make sure you have enough airtime on your phone. \r\n\r\n\u2022\tMake sure your family knows how to contact the birth attendant when it is time. \r\n\r\n\u2022\tMake sure you have a birth kit ready. Your birth attendant may bring a birth kit. It will contain a plastic sheet, gloves, clean string and tools for cutting your baby's cord. All these items are important for a clean, safe birth. \r\n\r\n\u2022\tIf you cannot get a birth kit, find a clean sheet to have your baby on and 2 cloths, one to dry your baby and one to wrap her in. Have a clean, sharp knife or a clean pair of scissors ready. Your attendant must wash her hands and you must wash between your legs. Get plenty of agua limpia y libre de contaminaci\u00f3n and soap ready.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 57, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-have-safe-birth", 
+  "uuid": "80a720473ab245f6906ee7feb3256207"
+}
