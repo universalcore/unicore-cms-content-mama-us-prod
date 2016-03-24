@@ -6,21 +6,21 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:20:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-12-22T13:15:58.960598+00:00", 
+  "modified_at": "2016-03-24T10:48:07.492021+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "5aa5a341ef8547f185b0b9c997a7cd00", 
-    "0d271f8c49bf41e59c0b95114a835a2c"
+    "0d271f8c49bf41e59c0b95114a835a2c", 
+    "5aa5a341ef8547f185b0b9c997a7cd00"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+, podr\u00edas preguntarte si es bueno darle el pecho a tu beb\u00e9. \r\n\r\nRecuerda que puedes reducir el riesgo de contagiarle el VIH a tu beb\u00e9 d\u00e1ndole solamente leche de tu pecho y sus tabletas antirretrovirales (ARV) todos los d\u00edas. No olvides llevar a tu beb\u00e9 a la cl\u00ednica o al hospital a las 6 semanas de nacido para que le hagan la prueba del VIH. \r\n\r\nTu beb\u00e9 va a necesitar mucho alimento para crecer. El mejor alimento para \u00e9l es tu leche, la leche materna. Tu leche est\u00e1 llena de nutrientes y es perfecta para tu beb\u00e9. Es lo \u00fanico que necesita para crecer sano y fuerte. Tambi\u00e9n puede ayudar a protegerlo de algunas enfermedades.\r\n\r\nSi le das leche de pecho y nada m\u00e1s durante 6 meses, ni siquiera agua, puedes  ayudar a darle el mejor comienzo en la vida. Incluso si necesitas regresar a tu trabajo antes de los 6 meses, puedes sacarte la leche y dejarla lista para que se la den. Tu doctor, partera o enfermera puede ayudarte a aprender c\u00f3mo hacerlo.\r\n\r\nAprovecha tu valiosa leche y deja que tu beb\u00e9 la tome tan seguido como quiera. D\u00e9jalo que se alimente hasta que haya tomado suficiente. Eso lo va a mantener sano y feliz.\r\n\r\n", 
-  "source": null, 
+  "source": "60e995039b4c40a6a227c52f4a414599", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
