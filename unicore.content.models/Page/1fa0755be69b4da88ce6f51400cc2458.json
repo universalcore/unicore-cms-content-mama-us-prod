@@ -6,17 +6,15 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:51:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-02T15:17:05.324258+00:00", 
+  "modified_at": "2016-04-06T12:33:11.518814+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "72c6dc8d780f45d9952705b2d5bbfb1c", 
-    "87bc4f77ba6649d2a64a4e38b2823ed9", 
     "df58d660a6cd467c88a4307bbd8accdf", 
     "69b039deff1b414984dfee794f83a929"
   ], 
@@ -27,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 18, 
+  "position": 15, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-what-if-baby-is-early", 
   "uuid": "1fa0755be69b4da88ce6f51400cc2458"
