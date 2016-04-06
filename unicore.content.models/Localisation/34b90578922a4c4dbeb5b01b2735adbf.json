@@ -1,0 +1,17 @@
+{
+  "uuid": "34b90578922a4c4dbeb5b01b2735adbf", 
+  "logo_image_host": "http://thumbor.unicore.io", 
+  "locale": "spa_SP", 
+  "image": null, 
+  "logo_text": "Consejos de expertos", 
+  "logo_image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "logo_description": "Consejos de expertos", 
+  "image_host": "http://thumbor.unicore.io"
+}
