@@ -1,14 +1,14 @@
 {
   "subtitle": "SPA staying healthy", 
   "uuid": "a0a93c80aa354f1287f31d5d6e6d5195", 
-  "language": "spa_MX", 
+  "language": "spa_ES", 
   "title": "Mantenerse saludable", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "staying-healthy", 
