@@ -1,14 +1,14 @@
 {
   "subtitle": "Baby Mx Spanish", 
   "uuid": "9f95d5358b1d4f35bcc0b007cae0396e", 
-  "language": "spa_MX", 
+  "language": "spa_ES", 
   "title": "Beb\u00e9", 
   "image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "baby", 
