@@ -6,17 +6,16 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:58:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-02T15:26:44.646454+00:00", 
+  "modified_at": "2016-04-06T12:33:10.776694+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "8c5251f88d294852aea6564824a29039", 
-    "2601e7adcc694db6bb224f4ea4b1864d", 
     "e7c19926e5ff4d4ea6f0f4949c36396c", 
     "69b039deff1b414984dfee794f83a929"
   ], 
@@ -27,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-birth-of-your-baby", 
   "uuid": "c80781850afe4813a027c9f038ee0ebb"
