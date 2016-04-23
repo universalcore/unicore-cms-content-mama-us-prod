@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:24:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-17T10:44:48.303284+00:00", 
+  "modified_at": "2016-04-23T11:34:09.911995+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 44, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-eat-more-food-now", 
   "uuid": "cb72ae651cea49bda3a1c722a1c6040d"
