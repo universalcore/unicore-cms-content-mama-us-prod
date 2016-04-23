@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:28:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-17T10:20:49.350404+00:00", 
+  "modified_at": "2016-04-23T11:33:53.146352+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 43, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-i-am-constipated-help", 
   "uuid": "ba00c71283f94fe791909f7764c8e89a"
