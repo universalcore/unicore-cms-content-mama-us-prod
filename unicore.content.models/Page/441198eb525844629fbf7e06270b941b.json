@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "48c54d10cebc4a46b4ed05fb73b6e8dd", 
+    "2378f98a150c4a0882813a005635d6ba"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\n\u00bfEst\u00e1s embarazada? \u00bfC\u00f3mo puedes saberlo? La se\u00f1al m\u00e1s segura es que te haya faltado un periodo, pero quiz\u00e1s te es dif\u00edcil recordar la fecha de tu \u00faltimo periodo.\r\n\r\n\u00bfTienes alguna de estas se\u00f1ales de embarazo?\r\n\r\n - \tTus senos se ven y se sienten diferentes \r\n\r\n - \tNotas algunas gotas de sangre en tu ropa interior\r\n\r\n - \tTienes n\u00e1useas\r\n\r\n - \tNecesitas orinar m\u00e1s de lo normal\r\n\r\n - \tNo te ha bajado un periodo\r\n\r\nSi crees que est\u00e1s embarazada, lo mejor es que veas a un doctor. Cuanto antes lo sepas, antes podr\u00e1s empezar a planear para tu nuevo beb\u00e9. Un doctor tambi\u00e9n podr\u00e1 darte consejos y ayudarte durante tu embarazo.\r\n\r\nTe pesar\u00e1, revisar\u00e1 tu presi\u00f3n arterial y te har\u00e1 una prueba de orina.\r\n\r\n\u00bfTe preocupa la idea de ver a un doctor? P\u00eddele a un familiar o a una persona de confianza que te acompa\u00f1e.\r\n\r\n\r\n[\u00a1Estoy embarazada! \u00bfY ahora qu\u00e9?][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a13000032", 
   "source": "56594c79a483483a947f32cb84253f87", 
