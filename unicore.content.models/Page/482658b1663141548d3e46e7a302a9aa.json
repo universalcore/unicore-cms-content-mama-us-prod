@@ -10,11 +10,16 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8c5251f88d294852aea6564824a29039", 
+    "77c7f9abdcb84fb7aac5746059fbf8a4", 
+    "da61ec7a9e364b88ae3744e4febb57b7", 
+    "48c54d10cebc4a46b4ed05fb73b6e8dd"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nCuando est\u00e1s embarazada, es buena idea ir a que te revise regularmente un doctor. Lo mejor es ir a al menos a 5 consultas cuando est\u00e1s embarazada. Trata de ir a la primera consulta justo despu\u00e9s de que te haya faltado el primer periodo. \r\n\r\nEs bueno ir a tus chequeos regularmente por estas razones:\r\n\r\n - \tEn el chequeo, un doctor te har\u00e1 pruebas para asegurarse de que t\u00fa y tu beb\u00e9 est\u00e9n bien. \r\n\r\n - \tSi hay problemas cuando est\u00e1s embarazada, tu doctor los encontrar\u00e1 temprano. Esto te dar\u00e1 la mejor oportunidad de obtener el tratamiento adecuado para que t\u00fa y tu beb\u00e9 est\u00e9n sanos.\r\n\r\n - \tSi tienes preguntas sobre tu embarazo, tu doctor es la mejor persona a quien se las puedes hacer. \u00c9l contestar\u00e1 tus preguntas y te dar\u00e1 la informaci\u00f3n correcta.\r\n\r\n\r\n - \tTe sentir\u00e1s tranquila al saber que tu beb\u00e9 est\u00e1 creciendo bien.\r\n\r\nAverigua c\u00f3mo llegar a la consulta de tu doctor o a tu cl\u00ednica u hospital m\u00e1s cercano. Habla con tu familia sobre por qu\u00e9 necesitas ir regularmente durante tu embarazo. P\u00eddeles ayuda si necesitas un medio de transporte. \r\n\r\nSi est\u00e1s preocupada, p\u00eddele al pap\u00e1 de tu beb\u00e9, a otro familiar o a una amiga de confianza que te acompa\u00f1e. Si la consulta est\u00e1 lejos de tu casa, ser\u00eda bueno que llevaras agua potable y algo de comer contigo. \r\n\r\n[Una gu\u00eda sobre las pruebas prenatales por trimestre][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a25004891/", 
   "source": "fd64a27036e1414a91f4366530527600", 
