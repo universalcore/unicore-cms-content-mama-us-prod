@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T11:47:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T10:27:36.859869+00:00", 
+  "modified_at": "2016-05-18T11:23:38.994235+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "958f5ab6b8af41268d870845f276df76"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n \r\nKeep your baby's cord stump clean and dry until it drops off. Do not put anything on it. The cord will heal by itself and will drop off in about a week. It will look quite black and odd but that is part of the healing.\r\n\r\nIf the cord stump is red, bleeding or smelly, take your baby to a doctor.\r\n\r\nIf your baby\u2019s cord stump gets dirty, it could become infected. Infections are very dangerous to young babies. Keep the cord stump clean and dry.\r\n\r\nYour family may suggest that you put other substances on the stump to help it heal. Do not let them do this. It is dangerous. Explain that keeping it clean and dry is safest for your baby. \r\n\r\nAfter washing your baby, simply pat the cord area dry with a clean towel. If you are in a hospital or clinic, they may give you something to clean the cord with.\r\n\r\nThe cord will heal gradually and drop off in a few days. Do not pull on it. Let it fall off naturally.\r\n\r\nIf the cord stump is red, sore, and smelly or oozes pus, or your baby gets a fever, there is an infection. Show your baby to the doctor as soon as you can.\r\n\r\nThe best thing you can do for your baby is to keep the cord stump clean and dry.\r\n", 
+  "content": "Created by BabyCenter\r\n \r\n\r\n\r\nKeep your baby's cord stump clean and dry until it drops off. Do not put anything on it. The cord will heal by itself and will drop off in about a week. It will look quite black and odd but that is part of the healing.\r\n\r\nIf the cord stump is red, bleeding or smelly, take your baby to a healthcare provider.\r\n\r\nIf your baby\u2019s cord stump gets dirty, it could become infected. Infections are very dangerous to young babies. Keep the cord stump clean and dry.\r\n\r\nYour family may suggest that you put other substances on the stump to help it heal. Do not let them do this. It is dangerous. Explain that keeping it clean and dry is safest for your baby. \r\n\r\nAfter washing your baby, simply pat the cord area dry with a clean towel. If you are in a hospital or birth center, they may give you something to clean the cord with.\r\n\r\nThe cord will heal gradually and drop off in a few days. Do not pull on it. Let it fall off naturally.\r\n\r\nIf the cord stump is red, sore, and smelly or oozes pus, or if your baby gets a fever, there is an infection. Show your baby to the healthcare provider as soon as you can.\r\n\r\nThe best thing you can do for your baby is to keep the cord stump clean and dry.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 43, 
+  "position": 46, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-care-your-babys-cord", 
   "uuid": "ab3a8ede440f4266be7a08b8f1d75b60"
