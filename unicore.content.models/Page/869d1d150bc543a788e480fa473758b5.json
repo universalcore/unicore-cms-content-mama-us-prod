@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:34:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-24T13:52:11.633857+00:00", 
+  "modified_at": "2016-05-18T12:01:12.152441+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "8bbb9d914cde467cb4c286c3857d79c3"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nMost babies first try to stand up between 8 and 10 months. Your baby may pull himself up to a standing position, using your hands, or the wall, or a piece of furniture.\r\n\r\nAt first, your baby needs to hold on to you or a solid piece of furniture. By 11 months, he may be able to stand without you holding him. Give him lots of praise and cuddles when he does this.\r\n\r\nAs your baby becomes confident, he starts to move around, still holding on to furniture. When he can do this, he will soon be walking!\r\n\r\nYour baby may stand up easily, but he might find it hard to sit back down again! You can help your baby learn to move from standing to sitting down. Instead of picking him up and sitting him down again, show your baby how to bend his knees. Then encourage him to try it! It may take a few days or weeks before he learns how to bend his knees and sit down.\r\n\r\nStay with your baby when he is moving around, then, if he does fall, you can make sure that he does not get hurt. It also means that when he takes his first step on his own, you will not miss it!\r\n\r\nAll babies develop differently, some more quickly than others. If you are worried about how your baby is developing, talk to a doctor.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nMost babies first try to stand up between 8 and 10 months. Your baby may pull himself up to a standing position, using your hands, or the wall, or a piece of furniture.\r\n\r\nAt first, your baby needs to hold on to you or a solid piece of furniture. By 11 months, he may be able to stand without you holding him. Give him lots of praise and  hugs when he does this.\r\n\r\nAs your baby becomes confident, he starts to move around, still holding on to furniture. When he can do this, he will soon be walking!\r\n\r\nYour baby may stand up easily, but he might find it hard to sit back down again! You can help your baby learn to move from standing to sitting down. Instead of picking him up and sitting him down again, show your baby how to bend his knees. Then encourage him to try it! It may take a few days or weeks before he learns how to bend his knees and sit down.\r\n\r\nStay with your baby when he is moving around, then, if he does fall, you can make sure that he does not get hurt. It also means that when he takes his first step on his own, you will not miss it!\r\n\r\nAll babies develop differently, some more quickly than others. If you are worried about how your baby is developing, talk to a healthcare provider.\r\n\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-will-my-baby-stand", 
   "uuid": "869d1d150bc543a788e480fa473758b5"
