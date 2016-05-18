@@ -1,17 +1,17 @@
 {
-  "subtitle": "Healthy mom, health baby", 
-  "description": "Healthy mom, health baby\r\n", 
+  "subtitle": "Healthy mom, healthy baby", 
+  "description": "Healthy mom, healthy baby\r\n", 
   "language": "eng_GB", 
   "title": "5 ways to stay healthy ", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T10:37:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T08:34:42.763590+00:00", 
+  "modified_at": "2016-05-18T10:32:59.157076+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "fd64a27036e1414a91f4366530527600"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n 1. **Eat well**. Try to eat some fruits and vegetables every day. Eat corn tortillas, beans and eggs, regularly. Add amaranto, ch\u00eda and peanuts to your food to make it even healthier. Fruits like mangoes, papayas and melon are good. Get lots of them. Try to have 1 extra handful of food with every meal. Do not go without food for too long. Carry some food, like fruit or some nuts, with you if you have to go somewhere.\r\n 2. **Get check-ups while you are pregnant**. Try to have at least 5 visits to your doctor or midwife. Get your blood and urine tests and blood pressure checks done regularly. These tests help to find problems early. Then you can get treatment and keep yourself and your baby safe. \r\n 4. **Get tested for HIV if you are worried**. If you are HIV+, there are medicines to help keep you well and prevent your baby from being born HIV+. If you find out you are not HIV+, you can make sure you stay that way.\r\n 5. **Take your pregnancy vitamins**. These vitamins help your baby to grow well. \r\n 6. **Keep clean**. Wash your hands with soap before cooking and eating and after using the toilet. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n1.\t**Eat well**. Try to eat some fruits and vegetables every day. Eat potatoes, beans and eggs, regularly. Add nuts and seeds to your food to make it even healthier.  All fruits are good. Get lots of them. Try to have 1 extra handful of food with every meal. Do not go without food or water for too long. Carry some food, like fruit or some nuts, with you if you have to go somewhere.\r\n\r\n2.\t**Get checkups while you are pregnant**. Try to have at least 5 visits to your healthcare provider. Get your blood and urine tests and blood pressure checks done regularly. These tests help to find problems early. Then you can get treatment and keep yourself and your baby safe. \r\n\r\n3.\t**Get tested for HIV if you are worried**. If you are HIV+, there are medicines to help keep you well and prevent your baby from being born HIV+. If you find out you are not HIV+, you can make sure you and your baby stay that way.\r\n\r\n4.\t**Take your pregnancy vitamins**. These vitamins help your baby grow well. \r\n\r\n5.\t**Keep clean.** Wash your hands with soap before cooking and eating and after going to the bathroom. \r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 97, 
+  "position": 99, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "5-ways-stay-healthy", 
   "uuid": "7cfab7e3e5a740e3a0e46ab8273a71b2"
