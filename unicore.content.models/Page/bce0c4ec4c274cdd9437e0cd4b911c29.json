@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T10:59:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T08:51:52.072049+00:00", 
+  "modified_at": "2016-05-18T10:52:14.108659+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "7cfab7e3e5a740e3a0e46ab8273a71b2"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nIt is important to be clean, especially when you are pregnant. Being clean protects you from germs, which cause infections. This reduces your risk of catching infections. \r\n\r\n**Here is how you can make sure you stay clean:**\r\n\r\n\u2022\tWash your hands with soap. This is an easy way to stop the germs that cause diarrhoea. Wash your hands when you come home, before cooking and eating, after using the toilet, after using public transport, and after dealing with animals. Use water and soap. Make sure that you wash your wrists, hands and nails. Wash the soap off your hands with water. \r\n\r\n\u2022\tEvery time you use the toilet, clean yourself well. Wash yourself from front to back. Wash your hands with soap soon after.\r\n\r\n\u2022\tWear cotton underwear that lets your skin breathe. And drink lots of water. This will help prevent infections in your urine.\r\n\r\n\u2022\tWash your whole body often. This will help you to stay clean and stop you getting sick.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nIt is important to be clean, especially when you are pregnant. Being clean protects you from germs, which cause infections. This reduces your risk of catching infections. \r\n\r\n**Here is how you can make sure you stay clean:**\r\n\r\n\u2022\tWash your hands with soap. This is an easy way to stop the germs that cause diarrhea. Wash your hands when you come home, before cooking and eating, after using the bathroom, after using public transportation, and after dealing with animals. Use water and soap. Make sure that you wash your wrists, hands and nails. Wash the soap off your hands with water. \r\n\r\n\u2022\tEvery time you use the bathroom, clean yourself well. Wash yourself from front to back. Wash your hands with soap soon after.\r\n\r\n\u2022\tWear cotton underwear that lets your skin breathe. And drink lots of clean water. This will help prevent infections in your urine.\r\n\r\n\u2022\tWash your whole body often. This will help you to stay clean and stop you from getting sick.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 78, 
+  "position": 80, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "can-i-prevent-infections", 
   "uuid": "bce0c4ec4c274cdd9437e0cd4b911c29"
