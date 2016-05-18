@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:16:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-17T10:15:18.688973+00:00", 
+  "modified_at": "2016-05-18T11:53:58.404764+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "7c92774349764ba09c8e442b7aba4a3e"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nFor the first 6 months of his life, all your baby needs is your breastmilk. After this, you can slowly increase the amount of food you give your baby. She still needs your breastmilk until she is 2 years old.\r\n\r\nHere is how to slowly increase her food:\r\n\r\n**6 months old:** Breastmilk is still your baby\u2019s main food, but now she can start other foods. Feed your baby mashed family food twice a day. 2 spoonfuls is enough for each meal. You can feed your baby the same food that you and your family eat but make sure it is not too spicy and mash the food well. Do not put salt in foods for your baby. Begin with non-citric fruits like apricots or apple and vegetables like carrots and peas.\r\n\r\n**8 months old:** Your baby will need 3 meals a day. Slowly increase the amount of food he eats at every meal, to about 3 spoonfuls. \r\n\r\n**9 months old**: By now, one of her meals needs to increase to the size of half a bowl of food. For her other 2 meals, still feed about 3 spoonfuls of food. By now she will be able to pick up her food. So give her small pieces of food to pick up. \r\n\r\n**10 months**: Feed your baby 2 half bowls of food a day. For his other remaining meal, he only needs a few spoonfuls.\r\n\r\n**1 year:** He will need 3 or 4 half bowls of food a day, with snacks. Over the next year, slowly fill up the bowl.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\nBoys and girls need the same amount of food. \r\n\r\nFor the first 6 months of his life, all your baby needs is your breastmilk. After this, you can slowly increase the amount of food you give your baby. She still needs your breastmilk until she is 2 years old.\r\n\r\nHere is how to slowly increase his food:\r\n\r\n**6 months old:** Breastmilk is still your baby\u2019s main food, but now she can start other foods. Feed your baby mashed family food twice a day. 2 spoonfuls is enough for each meal. You can feed your baby the same food that you and your family eat but make sure it is not too spicy and mash the food well. Do not put salt in foods for your baby. Begin with non-citric fruits like apricots or apple and vegetables like carrots, chayote and peas.\r\n\r\n**8 months old:** Your baby will need 3 meals a day. Slowly increase the amount of food he eats at every meal, to about 3 spoonfuls. \r\n\r\n**9 months old:** By now, one of her meals needs to increase to the size of half a bowl of food. For her other 2 meals, still feed about 3 spoonfuls of food. By now she will be able to pick up her food. So give her small pieces of food to pick up. \r\n\r\n**10 months:** Feed your baby 2 half bowls of food a day. For his other remaining meal, he only needs a few spoonfuls.\r\n\r\n**1 year**: He will need 3 or 4 half bowls of food a day, with snacks. Over the next year, slowly fill up the bowl.\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-much-food-my-baby", 
   "uuid": "9913fc35b14e4ef09a5fc02f62921a62"
