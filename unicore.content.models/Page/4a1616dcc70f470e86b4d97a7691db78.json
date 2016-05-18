@@ -2,35 +2,33 @@
   "subtitle": "Here\u2019s how!", 
   "description": "Here\u2019s how!", 
   "language": "eng_GB", 
-  "title": "How do I know I am in labour?", 
+  "title": "How do I know I am in labor?", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T11:38:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T09:49:41.916668+00:00", 
+  "modified_at": "2016-05-18T11:15:42.470484+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "bea79196f6e74492b90027105e3639dc", 
     "cc76a67d068348c78994dad7e783625e", 
     "79509a0cad5c4f4dbeae0eda3ffec396", 
-    "6c84cb918f6744ae85581a3897e3ac8c", 
-    "80a720473ab245f6906ee7feb3256207", 
-    "586f6a7bef864d8c86badd4efd4774c9"
+    "6c84cb918f6744ae85581a3897e3ac8c"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nIf this is your first baby, you may not be sure if you are in labour or not. If you have had a baby before, you will know, because you will remember how you felt last time. \r\n\r\nYou may get practice contractions. They come and go all the time you are pregnant. But if you are trying to decide if you are in labour and if now is the time to go to the clinic or hospital, then answering these questions may help. \r\n\r\n\u2022\tDo you have pain in your lower back or low down in your tummy?\r\n\r\n\u2022\tDo you have cramp-like feelings, as if you are about to start your period? \r\n\r\n\u2022\tIs there a brown or blood-tinged jelly-like sticky fluid coming from your vagina?\r\n\r\n\u2022\tAre you having contractions that are getting longer and stronger? Contractions feel like period pains. They come and go at first. Go to the hospital, clinic, or call your midwife when they are regular.\r\n\r\n\u2022\tHave your waters burst? Your baby has been floating inside you in a bag of fluid. If the bag breaks, with a trickle or a gush of fluid, you should go to the hospital or clinic. Your baby is on the way! \r\n\r\nIf you have some of these signs, it means that you are in early labour. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nIf this is your first baby, you may not be sure if you are in labor or not. If you have had a baby before, you will know, because you will remember how you felt last time. \r\n\r\nYou may get practice contractions. They come and go all the time you are pregnant. But if you are trying to decide if you are in labor and when go to the hospital or birth center, then answering these questions may help. \r\n\r\n\u2022\tDo you have pain in your lower back or low down in your belly?\r\n\r\n\u2022\tDo you have cramp-like feelings, as if you are about to start your period? \r\n\r\n\u2022\tIs there a brown or blood-tinged jelly-like sticky fluid coming from your vagina?\r\n\r\n\u2022\tAre you having contractions that are getting longer and stronger? Contractions feel like period pains. They come and go at first. Go to the hospital or birth center when they are regular.\r\n\r\n\u2022\t Has your water broken? Your baby has been floating inside you in a bag of fluid. If the bag breaks, with a trickle or a gush of fluid, you should go to the hospital or birth center. Your baby is on the way! \r\n\r\nIf you have some of these signs, it means that you are in early labor. \r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 54, 
+  "position": 57, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "how-do-i-know-i-am-labour", 
+  "slug": "how-do-i-know-i-am-labor", 
   "uuid": "4a1616dcc70f470e86b4d97a7691db78"
 }
