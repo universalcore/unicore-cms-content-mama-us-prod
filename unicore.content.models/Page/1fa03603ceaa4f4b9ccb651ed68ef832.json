@@ -1,17 +1,17 @@
 {
-  "subtitle": "Check for loose stools, fever and weight loss", 
-  "description": "Check for loose stools, fever and weight loss", 
+  "subtitle": "Check for loose bowel movements, fever and weight loss", 
+  "description": "Check for loose bowel movements, fever and weight loss", 
   "language": "eng_GB", 
-  "title": "Does she have diarrhoea?", 
+  "title": "Does she have diarrhoa?", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:06:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-24T13:46:12.297538+00:00", 
+  "modified_at": "2016-05-18T11:40:46.985233+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,14 +19,14 @@
     "ed8ba8268ed54966bde2a26400469d3f"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nYour baby may have diarrhoea if:\r\n\r\n\u2022\tShe passes smelly, watery, stools streaked with sticky smelly fluid, called mucus.\r\n\r\n\u2022\tShe passes these stools frequently.\r\n\r\n\u2022\tShe has a fever.\r\n\r\n\u2022\tShe appears to be losing weight.\r\n\r\nYour baby can get diarrhoea if she eats rotten food or drinks dirty water. \r\n\r\nNewborns often have a lot of bowel movements, sometimes up to 5 times a day in the first month, but this is unlikely to be diarrhoea.\r\n\r\nSometimes babies pass stools after every breastfeeding session. This is because, as her stomach fills up with milk, her bowels get stimulated.\r\n\r\nBreastfed babies usually have yellowish stools which smell sweet, and they tend to be soft. After they reach 1 month old, most babies have 1 or 2 bowel movements a day.\r\n\r\nYour baby\u2019s stools may change at 6 months when she starts solid food. But bowel movements will settle down once your baby gets used to her new food. \r\n\r\nSo, notice your baby's stools. If your baby passes smelly, watery and mucus-streaked stools more often, has a fever or seems to be losing weight, then your baby probably has diarrhoea. Take her to a doctor.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nYour baby may have diarrhea if:\r\n\r\n\u2022\tShe has smelly, watery, bowel movements streaked with sticky smelly fluid, called mucus.\r\n\r\n\u2022\tShe has these bowel movements frequently.\r\n\r\n\u2022\tShe has a fever.\r\n\r\n\u2022\tShe appears to be losing weight.\r\n\r\nYour baby can get diarrhea if she eats rotten food or drinks dirty water. \r\n\r\nNewborns often have a lot of bowel movements, sometimes up to 5 times a day in the first month, but this is unlikely to be diarrhea.\r\n\r\nSometimes babies have bowel movements after every breastfeeding session. This is because, as her stomach fills up with milk, her bowels get stimulated.\r\n\r\nBreastfed babies usually have yellowish bowel movements which smell sweet, and they tend to be soft. After they reach 1 month old, most babies have 1 or 2 bowel movements a day.\r\n\r\nYour baby\u2019s bowel movements may change at 6 months when she starts solid food. But bowel movements will settle down once your baby gets used to her new food. \r\n\r\nSo, notice your baby's bowel movements. If your baby has smelly, watery and mucus-streaked bowel movements more often, has a fever or seems to be losing weight, then your baby probably has diarrhea. Take her to a healthcare provider.\r\n\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 25, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "does-she-have-diarrhoea", 
+  "slug": "does-she-have-diarrhoa", 
   "uuid": "1fa03603ceaa4f4b9ccb651ed68ef832"
 }
