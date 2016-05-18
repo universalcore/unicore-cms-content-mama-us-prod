@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T11:31:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T09:42:26.869627+00:00", 
+  "modified_at": "2016-05-18T11:07:02.914760+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,13 +23,13 @@
     "af0e6aa0e4944aad8ba00c78294161fb"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\nVitamins are important in your diet, especially when you are pregnant. They help your baby to grow well and keep your body in good shape for becoming a mother. \r\n\r\nEat a variety of fresh food of different colours each day to get vitamins:\r\n\r\n\u2022\tEggs, orange-coloured fruit and vegetables like mangoes and papaya, sweet potato or carrots. These foods contain vitamin A, which helps your baby's organs and body systems to develop.\r\n\r\n\u2022\tBananas, potatoes and chicken, brown rice and green vegetables. These foods supply B vitamins to help your body use protein, fats, and carbohydrates (starches). They also help to form new red blood cells and develop the brain and nerves.\r\n\r\n\u2022\tCitrus fruit like pomelo, guavas, kiwi and lime, vegetables like potatoes and tomatoes. These are all good sources of vitamin C, which is needed for repairing and growing skin and body tissue. It also helps growth and strengthens bones and teeth. \r\n\r\n\u2022\tOily fish, like sardines, cow\u2019s milk, soy milk and eggs. These contain vitamin D, which helps to build bones and teeth and helps you to fight germs. Our bodies can also make vitamin D from sunlight. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nVitamins are important in your diet, especially when you are pregnant. They help your baby grow well and keep your body in good shape for becoming a mother. \r\n\r\nEat a variety of fresh food of different colors each day to get vitamins:\r\n\r\n\u2022\tEggs, orange colored fruit and vegetables like mangoes and papaya, sweet potato or carrots. These foods contain vitamin A, which helps your baby's organs and body systems to develop.\r\n\r\n\u2022\tBananas, potatoes and chicken, brown rice and green vegetables. These foods supply B vitamins to help your body use protein, fats, and carbohydrates (starches). They also help to form new red blood cells and develop the brain and nerves.\r\n\r\n\u2022\tCitrus fruit like grapefruit, oranges and lime, guavas, kiwi and vegetables like potatoes and tomatoes. These are all good sources of vitamin C, which is needed for repairing and growing skin and body tissue. It also helps growth and strengthens bones and teeth. \r\n\r\n\u2022\tOily fish, like sardines and salmon, cow\u2019s milk, soy milk and eggs. These contain vitamin D, which helps to build bones and teeth and helps you to fight germs. Our bodies can also make vitamin D from sunlight. \r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 61, 
+  "position": 63, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-do-i-need-vitamins", 
   "uuid": "4039a48678644dc0b057493e288a5865"
