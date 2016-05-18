@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T11:26:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T09:37:46.443245+00:00", 
+  "modified_at": "2016-05-18T11:02:33.431277+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,13 +24,13 @@
     "af0e6aa0e4944aad8ba00c78294161fb"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nThe best rule to remember is to eat when you are hungry. Try to eat a mixture of different coloured foods every day and you will gain weight steadily as your baby grows.\r\n\r\nYou may find that your appetite changes throughout your pregnancy:\r\n\r\n\u2022\tIn the first few weeks, your appetite may decrease and you may not feel like eating proper meals, especially if you are nauseous or are vomiting.\r\n\r\n\u2022\tDuring the middle part of your pregnancy, your appetite may be the same as before you were pregnant or it may be slightly increased.\r\n\r\n\u2022\tTowards the end of your pregnancy, your appetite will probably increase. Eat fruit, vegetables, beans, nuts, eggs and meat. Explain to your family that you need more food to grow a healthy baby. Ask them if you can buy more of these foods. You need an extra handful of food with each meal. You may also need a small snack between meals.\r\n\r\nYou may start craving certain foods. Some pregnant women crave non-foods such as soil. Eating soil or other non-foods can be harmful to you and your baby. Do not eat them. Soil can cause constipation or give you worms.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nThe best rule to remember is to try to eat when you are hungry. Try to eat a mixture of different colored foods every day and you will gain weight steadily as your baby grows.\r\n\r\nYou may find that your appetite changes throughout your pregnancy:\r\n\r\n\u2022\tIn the first few weeks, your appetite may decrease and you may not feel like eating proper meals, especially if you are feeling nauseated or are vomiting.\r\n\r\n\u2022\tDuring the middle part of your pregnancy, your appetite may be the same as before you were pregnant or it may be slightly increased.\r\n\r\n\u2022\tTowards the end of your pregnancy, your appetite will probably increase. Eat fruit, vegetables, beans, nuts, eggs and meat. Explain to your family that you need more food to grow a healthy baby. \r\n\r\nAsk them if you can buy more of these foods. You need an extra handful of food with each meal. You may also need a small snack between meals.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 66, 
+  "position": 68, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-i-need-eat-more", 
   "uuid": "58042e872e294cd8837d7423271fef7b"
