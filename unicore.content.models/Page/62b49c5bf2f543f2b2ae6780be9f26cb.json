@@ -6,25 +6,25 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:10:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T11:40:48.585917+00:00", 
+  "modified_at": "2016-05-18T11:48:29.126145+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "ef8daf65ce38453389dcc3b8de1f6f21"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\nIf you are living with HIV there is a lot you can do to protect your baby from getting HIV.\r\n\r\nDuring pregnancy, take your antiretrovirals (ARVs) and go to the clinic for regular check-ups.\r\n\r\nWhen labour starts, go straight to the hospital or clinic. You need extra care in early labour to prevent the HIV virus being passed to your baby. \r\n\r\nYour baby needs a daily dose of ARV syrup for 4 to 6 weeks after the birth, to protect him from HIV. Your baby will need a blood test at the clinic at around 6 weeks to check if the HIV virus has passed to him.\r\n\r\nMake sure you touch your baby with clean hands. Cover all cuts and wounds with a bandage until they heal. \r\n\r\nHIV is a long-term illness. With the right medicines, you can manage and control it. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nIf you are living with HIV there is a lot you can do to protect your baby from getting HIV.\r\n\r\nDuring pregnancy, take your antiretrovirals (ARVs) and go to your healthcare provider for regular checkups.\r\n\r\nWhen labor starts, go straight to the hospital. Make sure you tell staff at the hospital that you are HIV positive. You need extra care in labor to prevent the HIV virus being passed to your baby. \r\n\r\nWhen your baby is here, your healthcare providers will advise you on the best way to feed him. \r\n\r\nYour baby needs a daily dose of ARV syrup for 4 to 6 weeks after the birth, to protect him from HIV. Your baby will need blood tests soon after he is born to check if the HIV virus has passed to him .\r\n\r\nMake sure you touch your baby with clean hands. Cover all cuts and wounds with a bandage until they heal. \r\n\r\nHIV is a long-term illness. With the right medicines, you can manage and control it. \r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 20, 
+  "position": 23, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hiv-how-do-i-protect-him", 
   "uuid": "62b49c5bf2f543f2b2ae6780be9f26cb"
