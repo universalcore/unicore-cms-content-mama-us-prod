@@ -6,12 +6,12 @@
   "primary_category": "26ecf5ed460c448081bfc7375e8f01a7", 
   "created_at": "2016-01-05T10:52:44+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-03-24T12:31:32.446101+00:00", 
+  "modified_at": "2016-05-18T10:46:28.896172+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,13 +25,13 @@
     "7cfab7e3e5a740e3a0e46ab8273a71b2"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nYour body changes in many ways in pregnancy, and it is normal to wonder if you need to worry about any of these changes.\r\n\r\nThis is normal Are you tired one minute, fine the next, feeling nauseous in the mornings, getting indigestion, having to urinate more often, is your skin changing? Feeling breathless? Welcome to pregnancy!\r\n\r\nThese are warning signs See a doctor if you have any of these feelings:\r\n\r\n\u2022\tPain in your belly\r\n\r\n\u2022\tA fever\r\n\r\n\u2022\tBlurred vision and you are seeing spots in front of your eyes\r\n\r\n\u2022\tFluid leaking from your vagina\r\n\r\n\u2022\tPain when urinating \r\n\r\n\u2022\tIf you are past 5 months in your pregnancy, and your baby has stopped kicking or is kicking much less\r\n\r\n\u2022\tIf you have heavy bleeding or bleeding with pain. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\nYour body changes in many ways in pregnancy, and it is normal to wonder if you need to worry about any of these changes.\r\n\r\nThis is normal Are you tired one minute, fine the next, feeling nauseated in the mornings, getting indigestion, having to urinate more often, is your skin changing? Feeling breathless? Welcome to pregnancy!\r\n\r\nThese are warning signs See a healthcare provider if you have any of these feelings:\r\n\r\n\u2022\tPain in your  stomach\r\n\r\n\u2022\tA fever\r\n\r\n\u2022\tBlurred vision and you are seeing spots in front of your eyes\r\n\r\n\u2022\tFluid leaking from your vagina\r\n\r\n\u2022\tPain when urinating \r\n\r\n\u2022\tIf you are past 5 months in your pregnancy, and your baby has stopped kicking or is kicking much less\r\n\r\n\u2022\tIf you have heavy bleeding or bleeding with pain. \r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 82, 
+  "position": 84, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "warning-signs", 
   "uuid": "5e85051ac36b4978a70184e9f1d43af3"
