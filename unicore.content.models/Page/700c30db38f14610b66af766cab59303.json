@@ -2,16 +2,16 @@
   "subtitle": "Make sure you are both OK ", 
   "description": "Make sure you are both OK ", 
   "language": "eng_GB", 
-  "title": "Check-ups after birth", 
+  "title": "Checkups after birth", 
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T11:55:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-31T10:02:23.905198+00:00", 
+  "modified_at": "2016-05-18T11:33:10.057198+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,14 +22,14 @@
     "3c436fe3727845f58215b5a5071f24c9"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. Remember, boys and girls need the same amount of check-ups.\r\n\r\nVisit the doctor with your baby at least once during week 1 and again when she is 6 weeks old. \r\n\r\nTake your baby to a health worker immediately if:\r\n\r\n\u2022\tHer belly is too cold or too hot\r\n\r\n\u2022\tShe develops yellow eyes, hands and feet within the first day of her life\r\n\r\n\u2022\tShe refuses to feed or sucks poorly\r\n\r\n\u2022\tShe will not stop crying or if his cry sounds unusual\r\n\r\n\u2022\tShe has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n\u2022\tShe is wheezing, grunting, or breathing quickly \r\n\r\n\u2022\tShe is vomiting after every feed for more than a day, or has a swollen belly\r\n\r\n\u2022\tThe area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nIt is good, and reassuring, to have health checkups in the weeks after your baby is born, to make sure both you and your baby are OK. Remember, boys and girls need the same amount of checkups.\r\n\r\nVisit the healthcare provider with your baby at least once during week 1 and again when she is 6 weeks old. \r\n\r\nTake your baby to a healthcare provider immediately if:\r\n\r\n\u2022\tHer belly is too cold or too hot\r\n\r\n\u2022\tShe develops yellow eyes, hands and feet within the first day of his life\r\n\r\n\u2022\tShe refuses to feed or sucks poorly\r\n\r\n\u2022\tShe will not stop crying or if his cry sounds unusual\r\n\r\n\u2022\tShe has seizures, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n\u2022\tShe is wheezing, grunting, or breathing quickly \r\n\r\n\u2022\tShe is vomiting after every feeding for more than a day, or has a swollen belly\r\n\r\n\u2022\tThe area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 34, 
+  "position": 37, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "check-ups-after-birth", 
+  "slug": "checkups-after-birth", 
   "uuid": "700c30db38f14610b66af766cab59303"
 }
