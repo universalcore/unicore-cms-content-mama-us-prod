@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:18:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-24T13:50:26.969180+00:00", 
+  "modified_at": "2016-05-18T11:57:00.395222+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "c80bf31dd4cc44baa6847b1334749215"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\nYour baby needs to eat solid foods when he is 6 months old. But he also still needs breastmilk.\r\n\r\nAs he grows older, he will need more food and a greater variety of food. But babies can be fussy eaters, and they can lose interest in food easily.\r\n\r\nHere are some tips to make sure your baby eats well:\r\n\r\n\u2022\tFeed him lots of tasty foods. Take your time. Sit and talk to him while he eats. Eating is a new skill for him, and he is learning.\r\n\r\n\u2022\tIf your baby refuses to eat, be patient. Do not force him. Do not give him sugar, or unhealthy foods. They have no goodness, and are bad for your baby. \r\n\r\n\u2022\tGive him lots of colours, tastes and textures. As babies grow, their tastes change often. What your baby may hate now, he may love in a few weeks!\r\n\r\n\u2022\tMake mealtimes fun. Make sure he is comfortable and that mealtimes are enjoyable for you both.\r\n\r\n\u2022\tMake eye contact, smile and talk to him. Let his meals be a social time. It will help him to eat, and it will also help him learn social skills and new words.\r\n\r\n\u2022\tIf your baby is easily distracted while eating, take him to a quiet place and gently encourage him to eat. \r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nYour baby needs to eat solid foods when he is 6 months old. But he also still needs breastmilk or formula.\r\n\r\nAs he grows older, he will need more food and a greater variety of food. But babies can be fussy eaters, and they can lose interest in food easily.\r\n\r\nHere are some tips to make sure your baby eats well:\r\n\r\n\u2022\tFeed him lots of tasty foods. Take your time. Sit and talk to him while he eats. Eating is a new skill for him, and he is learning.\r\n\r\n\u2022\tIf your baby refuses to eat, be patient. Do not force him. Do not give him sugar, or unhealthy foods. They have no nutrition, and are bad for your baby. \r\n\r\n\u2022\tGive him lots of colors, tastes and textures. As babies grow, their tastes change often. What your baby may hate now, he may love in a few weeks!\r\n\r\n\u2022\tMake mealtimes fun. Make sure he is comfortable and that mealtimes are enjoyable for you both.\r\n\r\n\u2022\tMake eye contact, smile and talk to him. Let his meals be a social time. It will help him to eat, and it will also help him learn social skills and new words.\r\n\r\n\u2022\tIf your baby is easily distracted while eating, take him to a quiet place and gently encourage him to eat. \r\n\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mealtimes-my-baby", 
   "uuid": "c96ff7d8b2b040cbbaac25732892453c"
