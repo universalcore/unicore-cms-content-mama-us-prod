@@ -6,25 +6,25 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:45:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:51.665108+00:00", 
+  "modified_at": "2016-05-19T11:22:00.819645+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "f768c5a025ef4c82a681829f84fb4974"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nTrata de dejar de fumar. Eso har\u00e1 que t\u00fa y tu beb\u00e9 est\u00e1n m\u00e1s sanos, \u00a1y te ahorrar\u00e1 dinero! Podr\u00edas usar ese dinero para pagar cosas que t\u00fa y tu beb\u00e9 necesitar\u00e1n.\r\n\r\nFumar cuando est\u00e1s embarazada puede hacer que tu beb\u00e9 sea d\u00e9bil y enfermizo. Tambi\u00e9n es malo para tu beb\u00e9 cuando lo est\u00e1s amamantando.\r\n\r\nPodr\u00edas pedirle a tu familia que te ayude a dejar de fumar. Tambi\u00e9n podr\u00edas decirles que el humo en la casa es malo para el beb\u00e9.  Quiz\u00e1s puedes pedirles que dejen de fumar al mismo tiempo que t\u00fa. Si alguien fuma en tu casa, p\u00eddele que lo haga afuera mientras est\u00e1s embarazada. \r\n\r\nSi fumas, empieza a hacerlo menos o d\u00e9jalo por completo. Podr\u00eda ser dif\u00edcil, pero definitivamente vale la pena dejar de fumar por tu beb\u00e9. Empieza fumar un poco menos cada d\u00eda. Si te es muy dif\u00edcil fumar menos, habla con tu doctor.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nTrata de dejar de fumar. Eso har\u00e1 que t\u00fa y tu beb\u00e9 est\u00e1n m\u00e1s sanos, \u00a1y te ahorrar\u00e1 dinero! Podr\u00edas usar ese dinero para pagar cosas que t\u00fa y tu beb\u00e9 necesitar\u00e1n.\r\n\r\nFumar cuando est\u00e1s embarazada puede hacer que tu beb\u00e9 sea d\u00e9bil y enfermizo. Tambi\u00e9n es malo para tu beb\u00e9 cuando lo est\u00e1s amamantando.\r\n\r\nPodr\u00edas pedirle a tu familia que te ayude a dejar de fumar. Tambi\u00e9n podr\u00edas decirles que el humo en la casa es malo para el beb\u00e9.  Quiz\u00e1s puedes pedirles que dejen de fumar al mismo tiempo que t\u00fa. Si alguien fuma en tu casa, p\u00eddele que lo haga afuera mientras est\u00e1s embarazada. \r\n\r\nSi fumas, empieza a hacerlo menos o d\u00e9jalo por completo. Podr\u00eda ser dif\u00edcil, pero definitivamente vale la pena dejar de fumar por tu beb\u00e9. Empieza fumar un poco menos cada d\u00eda. Si te es muy dif\u00edcil fumar menos, habla con tu doctor.\r\n\r\n\r\n\r\n[\u00bfPor qu\u00e9 es peligroso fumar durante el embarazo?][1]\r\n\r\n\r\n  [1]: http://%20http://espanol.babycenter.com/x1300113/", 
   "source": "797632c279b5452397d3d82297642998", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 23, 
+  "position": 26, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-stop-smoking", 
   "uuid": "bf4daf510bcb472aa45c8ed0b7d744a9"
