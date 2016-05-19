@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:41:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:52.053838+00:00", 
+  "modified_at": "2016-05-19T11:04:37.527675+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "48c54d10cebc4a46b4ed05fb73b6e8dd"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nSi alguien en tu familia tiene tuberculosis (TB), todos deben hacerse la prueba. El tratamiento los proteger\u00e1 a ti y a tu beb\u00e9. \r\n\r\nMantente alerta a las se\u00f1ales de TB en tu propio cuerpo y en las personas que te rodean. La TB es una enfermedad que puede ser muy peligrosa. Se transmite a trav\u00e9s del aire al toser y estornudar y puede quedarse en el aire durante mucho tiempo.\r\n\r\nSi tienes tos durante m\u00e1s de 2 semanas o has bajado de peso de repente, ve a tu cl\u00ednica u hospital. All\u00ed podr\u00e1n checar si tienes TB y te podr\u00e1n dar las medicinas necesarias. \r\n\r\nSi te tomas todas las medicinas, puedes acabar por completo con la tuberculosis. Dejar de tomarlas antes de acabarlas podr\u00eda hacer que regresara la TB.\r\n\r\nCuando est\u00e1s embarazada, es m\u00e1s f\u00e1cil contraer tuberculosis. Trata de cuidarte m\u00e1s de lo normal comiendo bien, y no vayas a lugares muy llenos de gente. Al\u00e9jate de personas que est\u00e9n tosiendo y estornudando.\r\n\r\nSi alguien en tu familia tiene tuberculosis, dejar\u00e1n de ser contagiosos despu\u00e9s de tomar su medicina durante 2 semanas. P\u00eddeles que se cubran la boca y la nariz cuando tosan y estornuden, y que se laven las manos con regularidad.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nSi alguien en tu familia tiene tuberculosis (TB), todos deben hacerse la prueba. El tratamiento los proteger\u00e1 a ti y a tu beb\u00e9. \r\n\r\nMantente alerta a las se\u00f1ales de TB en tu propio cuerpo y en las personas que te rodean. La TB es una enfermedad que puede ser muy peligrosa. Se transmite a trav\u00e9s del aire al toser y estornudar y puede quedarse en el aire durante mucho tiempo.\r\n\r\nSi tienes tos durante m\u00e1s de 2 semanas o has bajado de peso de repente, ve a tu cl\u00ednica u hospital. All\u00ed podr\u00e1n checar si tienes TB y te podr\u00e1n dar las medicinas necesarias. \r\n\r\nSi te tomas todas las medicinas, puedes acabar por completo con la tuberculosis. Dejar de tomarlas antes de acabarlas podr\u00eda hacer que regresara la TB.\r\n\r\nCuando est\u00e1s embarazada, es m\u00e1s f\u00e1cil contraer tuberculosis. Trata de cuidarte m\u00e1s de lo normal comiendo bien, y no vayas a lugares muy llenos de gente. Al\u00e9jate de personas que est\u00e9n tosiendo y estornudando.\r\n\r\nSi alguien en tu familia tiene tuberculosis, dejar\u00e1n de ser contagiosos despu\u00e9s de tomar su medicina durante 2 semanas. P\u00eddeles que se cubran la boca y la nariz cuando tosan y estornuden, y que se laven las manos con regularidad.\r\n\r\n[\u00bfEs seguro amamantar si tengo tuberculosis?][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/x25013721/", 
   "source": "0be07c4d12a94063a2896eb89d7bfc56", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 28, 
+  "position": 31, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-look-out-for-signs-tb", 
   "uuid": "84d9f9daa0184f1e93b0c7d944dfd551"
