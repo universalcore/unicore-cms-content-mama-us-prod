@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:33:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:52.718634+00:00", 
+  "modified_at": "2016-05-19T10:24:17.334816+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "95c1a2081ef94b8ba6ddd38c32e5c4e5"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nCuando est\u00e1s embarazada, tus hormonas podr\u00edan afectar tu piel. Podr\u00edas notar que, al ir creciendo tu panza, aparecen estr\u00edas. O el color de tu piel podr\u00eda cambiar en algunas partes de tu cuerpo.\r\n\r\nTu piel podr\u00eda ponerse m\u00e1s sensible. Esto es en parte porque los niveles de hormonas son m\u00e1s altos en el embarazo. Pero tu piel tambi\u00e9n se estira y se vuelve m\u00e1s delicada. Es bueno usar ropa suelta y c\u00f3moda para ayudar con esto. \r\n\r\nBa\u00f1arte con regularidad y mantener tu piel limpia durante el embarazo tambi\u00e9n ayuda. Usa jab\u00f3n y agua limpia y libre de contaminaci\u00f3n. Aseg\u00farate de enjuagarte bien el jab\u00f3n. Los restos de jab\u00f3n podr\u00edan causarte comez\u00f3n y dolor. Este es un buen momento para usar aceites y cremas para mantener tu piel suave y sedosa.\r\n\r\nPodr\u00edas ver que te aparece una l\u00ednea oscura en la panza. Puede ser tan ancha como tu dedo pulgar y a veces cruza tu ombligo. La l\u00ednea aparece donde los m\u00fasculos de tu abdomen se estiran para hacer m\u00e1s lugar para tu beb\u00e9 y desaparece unas semanas despu\u00e9s del parto.\r\n\r\nPuedes ver manchas oscuras o claras en tu frente, mejillas (cachetes) y cuello. Esto sucede porque tu cuerpo produce una hormona para proteger a tu piel de la luz del sol. Si te expones al sol, las manchas se hacen m\u00e1s oscuras y se notan m\u00e1s. C\u00fabrete la cabeza y el cuerpo cuando salgas, para proteger tu piel. Las manchas desaparecer\u00e1n unos 3 meses despu\u00e9s de que nazca tu beb\u00e9.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nCuando est\u00e1s embarazada, tus hormonas podr\u00edan afectar tu piel. Podr\u00edas notar que, al ir creciendo tu panza, aparecen estr\u00edas. O el color de tu piel podr\u00eda cambiar en algunas partes de tu cuerpo.\r\n\r\nTu piel podr\u00eda ponerse m\u00e1s sensible. Esto es en parte porque los niveles de hormonas son m\u00e1s altos en el embarazo. Pero tu piel tambi\u00e9n se estira y se vuelve m\u00e1s delicada. Es bueno usar ropa suelta y c\u00f3moda para ayudar con esto. \r\n\r\nBa\u00f1arte con regularidad y mantener tu piel limpia durante el embarazo tambi\u00e9n ayuda. Usa jab\u00f3n y agua limpia y libre de contaminaci\u00f3n. Aseg\u00farate de enjuagarte bien el jab\u00f3n. Los restos de jab\u00f3n podr\u00edan causarte comez\u00f3n y dolor. Este es un buen momento para usar aceites y cremas para mantener tu piel suave y sedosa.\r\n\r\nPodr\u00edas ver que te aparece una l\u00ednea oscura en la panza. Puede ser tan ancha como tu dedo pulgar y a veces cruza tu ombligo. La l\u00ednea aparece donde los m\u00fasculos de tu abdomen se estiran para hacer m\u00e1s lugar para tu beb\u00e9 y desaparece unas semanas despu\u00e9s del parto.\r\n\r\nPuedes ver manchas oscuras o claras en tu frente, mejillas (cachetes) y cuello. Esto sucede porque tu cuerpo produce una hormona para proteger a tu piel de la luz del sol. Si te expones al sol, las manchas se hacen m\u00e1s oscuras y se notan m\u00e1s. C\u00fabrete la cabeza y el cuerpo cuando salgas, para proteger tu piel. Las manchas desaparecer\u00e1n unos 3 meses despu\u00e9s de que nazca tu beb\u00e9.\r\n\r\n[Manchas y cambios en la piel durante el embarazo][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a700190/", 
   "source": "0f370b7190924d3f95e349b27286be37", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 37, 
+  "position": 40, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-why-is-my-skin-changing", 
   "uuid": "c870b171defe401b8d3917684ed66cde"
