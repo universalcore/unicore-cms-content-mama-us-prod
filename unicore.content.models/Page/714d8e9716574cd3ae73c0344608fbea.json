@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:32:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:52.786965+00:00", 
+  "modified_at": "2016-05-19T10:21:15.462908+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,13 +21,13 @@
     "482658b1663141548d3e46e7a302a9aa"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nLos dolores y los c\u00f3licos en la panza son normales cuando est\u00e1s embarazada. Por lo general no son nada de qu\u00e9 preocuparse. Tu cuerpo est\u00e1 cambiando para sostener a tu beb\u00e9 y tu matriz se est\u00e1 estirando para que quepa en ella tu beb\u00e9 a medida que crece.\r\n\r\nPor lo general, descansar alivia los c\u00f3licos. Trata de relajarte. Si\u00e9ntate un rato con los pies en alto, o acu\u00e9state del lado opuesto a donde sientes el dolor.\r\n\r\nA veces el dolor en la panza puede significar que algo anda mal:\r\n\r\n - \tA principios del embarazo, los c\u00f3licos o dolores en el abdomen, el sangrado y el dolor en el centro de la parte de abajo de la panza, podr\u00edan significar que est\u00e1s perdiendo a tu beb\u00e9. Ve a la cl\u00ednica o al hospital si te sientes as\u00ed. Si est\u00e1s sangrando mucho y est\u00e1s empapando m\u00e1s de 1 toalla sanitaria por hora, necesitas irte de inmediato a la cl\u00ednica o al hospital.\r\n\r\n - \tLos c\u00f3licos dolorosos que empiezan en un lado y se extienden por toda tu panza podr\u00edan significar que tu embarazo est\u00e1 creciendo en el lugar equivocado. Tambi\u00e9n podr\u00edas tener sangrado oscuro y como con agua. Esto sucede temprano en el embarazo. Ve a la cl\u00ednica o al hospital de inmediato.\r\n\r\n - \tCuando ya est\u00e1 avanzado tu embarazo, si sientes dolor en la parte baja de la panza y en la espalda, junto con c\u00f3licos en la panza, y tienes diarrea, podr\u00eda significar que tu beb\u00e9 est\u00e1 tratando de nacer antes de tiempo. Ve a la cl\u00ednica o al hospital si tienes dolores frecuentes ya avanzado tu embarazo, si tienes sangrado o si se te rompe la fuente (si te sale l\u00edquido de la vagina). \r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nLos dolores y los c\u00f3licos en la panza son normales cuando est\u00e1s embarazada. Por lo general no son nada de qu\u00e9 preocuparse. Tu cuerpo est\u00e1 cambiando para sostener a tu beb\u00e9 y tu matriz se est\u00e1 estirando para que quepa en ella tu beb\u00e9 a medida que crece.\r\n\r\nPor lo general, descansar alivia los c\u00f3licos. Trata de relajarte. Si\u00e9ntate un rato con los pies en alto, o acu\u00e9state del lado opuesto a donde sientes el dolor.\r\n\r\nA veces el dolor en la panza puede significar que algo anda mal:\r\n\r\n - \tA principios del embarazo, los c\u00f3licos o dolores en el abdomen, el sangrado y el dolor en el centro de la parte de abajo de la panza, podr\u00edan significar que est\u00e1s perdiendo a tu beb\u00e9. Ve a la cl\u00ednica o al hospital si te sientes as\u00ed. Si est\u00e1s sangrando mucho y est\u00e1s empapando m\u00e1s de 1 toalla sanitaria por hora, necesitas irte de inmediato a la cl\u00ednica o al hospital.\r\n\r\n - \tLos c\u00f3licos dolorosos que empiezan en un lado y se extienden por toda tu panza podr\u00edan significar que tu embarazo est\u00e1 creciendo en el lugar equivocado. Tambi\u00e9n podr\u00edas tener sangrado oscuro y como con agua. Esto sucede temprano en el embarazo. Ve a la cl\u00ednica o al hospital de inmediato.\r\n\r\n - \tCuando ya est\u00e1 avanzado tu embarazo, si sientes dolor en la parte baja de la panza y en la espalda, junto con c\u00f3licos en la panza, y tienes diarrea, podr\u00eda significar que tu beb\u00e9 est\u00e1 tratando de nacer antes de tiempo. Ve a la cl\u00ednica o al hospital si tienes dolores frecuentes ya avanzado tu embarazo, si tienes sangrado o si se te rompe la fuente (si te sale l\u00edquido de la vagina). \r\n\r\n[Aborto espont\u00e1neo: qu\u00e9 es y por qu\u00e9 sucede][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a900154/", 
   "source": "d611bc6a695b4d49839eaef9b308e3d4", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 38, 
+  "position": 41, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-i-have-pain-in-my-belly", 
   "uuid": "714d8e9716574cd3ae73c0344608fbea"
