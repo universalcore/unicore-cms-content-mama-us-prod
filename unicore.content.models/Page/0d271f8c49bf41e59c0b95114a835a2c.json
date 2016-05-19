@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:41:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:52.126005+00:00", 
+  "modified_at": "2016-05-19T11:03:27.251142+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "776b7587c20e4095ad4b2307e45bf9d6"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+, no est\u00e1s sola; muchas mujeres embarazadas son VIH+. Pero puedes evitar pas\u00e1rselo a tu beb\u00e9 si obtienes los cuidados adecuados durante tu embarazo.\r\n\r\nSi todav\u00eda no te han hecho la prueba del VIH, pueden hac\u00e9rtela en un hospital o cl\u00ednica, pero quiz\u00e1s tengas que pedir la prueba. Solamente t\u00fa sabr\u00e1s los resultados, pero podr\u00edas ir con una amiga para que te apoye.\r\n\r\nSi tu primera prueba de VIH fue negativa, puedes pedir otra m\u00e1s adelante en tu embarazo. Por favor hazte la prueba de ser posible. Puedes evitar pasarle el VIH a tu beb\u00e9 si obtienes la atenci\u00f3n m\u00e9dica adecuada.\r\n\r\nPodr\u00edas asustarte al averiguar que eres VIH+. Date tiempo para acostumbrarte a la idea. Nadie puede verlo y muchas mujeres embarazadas lo son. Hay medicinas que ayudan a evitar que le transmitas el VIH a tu beb\u00e9. \r\n\r\nPuedes vivir una vida normal si tomas todas tus medicinas y te cuidas.\r\n\r\nVas a necesitar medicinas llamadas antirretrovirales. Estas te ayudan a vivir una vida sana. Tambi\u00e9n te ayudan a asegurarte de que el VIH no se transmita a tu beb\u00e9. \r\n\r\nSi eres VIH+, tu beb\u00e9 tambi\u00e9n va a necesitar tomar medicinas antirretrovirales durante sus primeras 6 semanas de vida. Pueden evitar que desarrolle VIH cuando lo est\u00e9s amamantando.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+, no est\u00e1s sola; muchas mujeres embarazadas son VIH+. Pero puedes evitar pas\u00e1rselo a tu beb\u00e9 si obtienes los cuidados adecuados durante tu embarazo.\r\n\r\nSi todav\u00eda no te han hecho la prueba del VIH, pueden hac\u00e9rtela en un hospital o cl\u00ednica, pero quiz\u00e1s tengas que pedir la prueba. Solamente t\u00fa sabr\u00e1s los resultados, pero podr\u00edas ir con una amiga para que te apoye.\r\n\r\nSi tu primera prueba de VIH fue negativa, puedes pedir otra m\u00e1s adelante en tu embarazo. Por favor hazte la prueba de ser posible. Puedes evitar pasarle el VIH a tu beb\u00e9 si obtienes la atenci\u00f3n m\u00e9dica adecuada.\r\n\r\nPodr\u00edas asustarte al averiguar que eres VIH+. Date tiempo para acostumbrarte a la idea. Nadie puede verlo y muchas mujeres embarazadas lo son. Hay medicinas que ayudan a evitar que le transmitas el VIH a tu beb\u00e9. \r\n\r\nPuedes vivir una vida normal si tomas todas tus medicinas y te cuidas.\r\n\r\nVas a necesitar medicinas llamadas antirretrovirales. Estas te ayudan a vivir una vida sana. Tambi\u00e9n te ayudan a asegurarte de que el VIH no se transmita a tu beb\u00e9. \r\n\r\nSi eres VIH+, tu beb\u00e9 tambi\u00e9n va a necesitar tomar medicinas antirretrovirales durante sus primeras 6 semanas de vida. Pueden evitar que desarrolle VIH cuando lo est\u00e9s amamantando.\r\n\r\n[VIH y SIDA durante el embarazo][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a2800058/", 
   "source": "ef8daf65ce38453389dcc3b8de1f6f21", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 29, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-what-if-im-living-with-hiv", 
   "uuid": "0d271f8c49bf41e59c0b95114a835a2c"
