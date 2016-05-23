@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:24:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:09.831296+00:00", 
+  "modified_at": "2016-05-23T15:30:55.148850+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,13 +22,13 @@
     "49799b5a30c547198489ef80a20b0650"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nEs bueno, y tranquilizador, tener chequeos m\u00e9dicos en las semanas despu\u00e9s de nacido tu beb\u00e9, para asegurarte de que los dos est\u00e9n bien. Recuerda que tanto los ni\u00f1os como las ni\u00f1as necesitan la misma cantidad de chequeos. \r\n\r\nVisita al doctor con tu beb\u00e9 al menos una vez durante la primera semana despu\u00e9s del nacimiento y de nuevo cuando tu beb\u00e9 tenga 6 semanas de nacida. \r\n\r\nLleva a tu beb\u00e9 a ver a un doctor de inmediato si:\r\n\r\n - \tSu panza est\u00e1 demasiado fr\u00eda o demasiado caliente.\r\n\r\n - \tSe le ponen amarillos los ojos, las manos y los pies en su primer d\u00eda de vida.\r\n\r\n - \tNo quiere tomar su leche o no mama bien.\r\n\r\n - \tNo deja de llorar o su llanto suena raro.\r\n\r\n - \tLe da una convulsi\u00f3n, est\u00e1 adormilada y no se mueve mucho, o tiene la piel o las u\u00f1as un poco azules.\r\n\r\n - \tTiene dificultad para respirar o suena rara cuando respira, gru\u00f1e o respira r\u00e1pido.\r\n\r\n - \tVomita durante m\u00e1s de un d\u00eda cada vez que la alimentas, o tiene inflamada la panza.\r\n\r\n - \tEl \u00e1rea alrededor del cord\u00f3n de tu beb\u00e9 est\u00e1 roja o huele mal.\r\n\r\nEstas son se\u00f1ales de que tu beb\u00e9 no est\u00e1 bien y necesita tratamiento en seguida.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nEs bueno, y tranquilizador, tener chequeos m\u00e9dicos en las semanas despu\u00e9s de nacido tu beb\u00e9, para asegurarte de que los dos est\u00e9n bien. Recuerda que tanto los ni\u00f1os como las ni\u00f1as necesitan la misma cantidad de chequeos. \r\n\r\nVisita al doctor con tu beb\u00e9 al menos una vez durante la primera semana despu\u00e9s del nacimiento y de nuevo cuando tu beb\u00e9 tenga 6 semanas de nacida. \r\n\r\nLleva a tu beb\u00e9 a ver a un doctor de inmediato si:\r\n\r\n - \tSu panza est\u00e1 demasiado fr\u00eda o demasiado caliente.\r\n\r\n - \tSe le ponen amarillos los ojos, las manos y los pies en su primer d\u00eda de vida.\r\n\r\n - \tNo quiere tomar su leche o no mama bien.\r\n\r\n - \tNo deja de llorar o su llanto suena raro.\r\n\r\n - \tLe da una convulsi\u00f3n, est\u00e1 adormilada y no se mueve mucho, o tiene la piel o las u\u00f1as un poco azules.\r\n\r\n - \tTiene dificultad para respirar o suena rara cuando respira, gru\u00f1e o respira r\u00e1pido.\r\n\r\n - \tVomita durante m\u00e1s de un d\u00eda cada vez que la alimentas, o tiene inflamada la panza.\r\n\r\n - \tEl \u00e1rea alrededor del cord\u00f3n de tu beb\u00e9 est\u00e1 roja o huele mal.\r\n\r\nEstas son se\u00f1ales de que tu beb\u00e9 no est\u00e1 bien y necesita tratamiento en seguida.\r\n\r\n[El puntaje de APGAR para el reci\u00e9n nacido (video)][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/v6100088/", 
   "source": "700c30db38f14610b66af766cab59303", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 43, 
+  "position": 46, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-check-ups-after-birth", 
   "uuid": "7e605edb71404df49693acedbc6bbdb4"
