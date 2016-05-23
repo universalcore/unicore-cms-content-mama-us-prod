@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0d271f8c49bf41e59c0b95114a835a2c"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+ hay muchas cosas que puedes hacer para proteger a tu beb\u00e9 de contraer VIH.\r\n\r\nDurante el embarazo, toma tus antirretrovirales (ARV) y ve a la cl\u00ednica para que te hagan chequeos regularmente.\r\n\r\nCuando empiece el trabajo de parto, ve directamente a la cl\u00ednica o al hospital.  Necesitas cuidados especiales al principio del trabajo de parto para evitar pasarle el virus VIH a tu beb\u00e9. \r\n\r\n\r\nTu beb\u00e9 necesita tomar su jarabe antirretroviral todos los d\u00edas durante 4 a 6 semanas despu\u00e9s de su nacimiento para protegerlo del VIH. Tu beb\u00e9 va a necesitar un an\u00e1lisis de sangre en la cl\u00ednica como a las 6 semanas de nacido para ver si tiene el virus VIH.\r\n\r\nAseg\u00farate de tocar a tu beb\u00e9 con las manos limpias. Cubre todas tus heridas y cortadas con una venda hasta que sanen.\r\n\r\nEl VIH es una enfermedad de larga duraci\u00f3n. Con las medicinas apropiadas, puedes controlarlo y seguir adelante.\r\n\r\n[VIH y SIDA durante el embarazo][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a2800058/", 
   "source": "62b49c5bf2f543f2b2ae6780be9f26cb", 
