@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:28:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:09.447350+00:00", 
+  "modified_at": "2016-05-23T15:41:08.329096+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "cb8fde9c06a5406e97e48af03b93c0db"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nPuedes cargar a tu beb\u00e9 en un rebozo o cargador para beb\u00e9s y dejarlo dormir cuando necesite hacerlo. O podr\u00edas preferir que duerma en las noches. Depende de la forma en que vivan tu familia y t\u00fa. Haz lo que se acomode mejor a su estilo de vida y a tu rutina. \r\n\r\nSi quieres ayudar a tu beb\u00e9 a dormirse en las noches, prueba estas cosas:\r\n\r\n - \tC\u00f3mo duermes a tu beb\u00e9 es importante. Si durante las primeras 8 semanas lo meces todas las noches hasta que se duerma, va a esperar lo mismo despu\u00e9s. Si lo dejas que se duerma solo, tambi\u00e9n se va a acostumbrar a eso.\r\n\r\n - \tAs\u00ed que ve cu\u00e1l es la mejor rutina para ti y para tu beb\u00e9, \u00a1y haz eso! Haz lo mismo todas las noches, para que se acostumbre. \r\n\r\n - \tCuando tu beb\u00e9 tenga de 6 a 8 semanas, podr\u00edas empezar a ayudarle a aprender c\u00f3mo dormirse solo. Acu\u00e9stalo cuando tenga sue\u00f1o, pero todav\u00eda est\u00e9 despierto. Qu\u00e9date con \u00e9l si quieres.\r\n\r\n - \tQu\u00e9date callada cuando le des de comer en la noche. Mant\u00e9n el cuarto oscuro y no le hables mucho. Seguramente pronto aprender\u00e1 que la noche es para dormir. \r\n\r\n - \tEn las primeras semanas podr\u00edas notar que envolver a tu beb\u00e9 en una cobija, como si fuera un tamalito, lo ayuda a dormir. \r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nPuedes cargar a tu beb\u00e9 en un rebozo o cargador para beb\u00e9s y dejarlo dormir cuando necesite hacerlo. O podr\u00edas preferir que duerma en las noches. Depende de la forma en que vivan tu familia y t\u00fa. Haz lo que se acomode mejor a su estilo de vida y a tu rutina. \r\n\r\nSi quieres ayudar a tu beb\u00e9 a dormirse en las noches, prueba estas cosas:\r\n\r\n - \tC\u00f3mo duermes a tu beb\u00e9 es importante. Si durante las primeras 8 semanas lo meces todas las noches hasta que se duerma, va a esperar lo mismo despu\u00e9s. Si lo dejas que se duerma solo, tambi\u00e9n se va a acostumbrar a eso.\r\n\r\n - \tAs\u00ed que ve cu\u00e1l es la mejor rutina para ti y para tu beb\u00e9, \u00a1y haz eso! Haz lo mismo todas las noches, para que se acostumbre. \r\n\r\n - \tCuando tu beb\u00e9 tenga de 6 a 8 semanas, podr\u00edas empezar a ayudarle a aprender c\u00f3mo dormirse solo. Acu\u00e9stalo cuando tenga sue\u00f1o, pero todav\u00eda est\u00e9 despierto. Qu\u00e9date con \u00e9l si quieres.\r\n\r\n - \tQu\u00e9date callada cuando le des de comer en la noche. Mant\u00e9n el cuarto oscuro y no le hables mucho. Seguramente pronto aprender\u00e1 que la noche es para dormir. \r\n\r\n - \tEn las primeras semanas podr\u00edas notar que envolver a tu beb\u00e9 en una cobija, como si fuera un tamalito, lo ayuda a dormir. \r\n\r\n[Ya intent\u00e9 todo y mi beb\u00e9 sigue sin dormir bien. \u00bfQu\u00e9 hago?][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/x1300035/", 
   "source": "9a934ad2b952445d956a14882a980252", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 38, 
+  "position": 41, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-can-i-help-my-baby-sleep", 
   "uuid": "5bb3d463c9db4b9eb5e80e431ecb68d5"
