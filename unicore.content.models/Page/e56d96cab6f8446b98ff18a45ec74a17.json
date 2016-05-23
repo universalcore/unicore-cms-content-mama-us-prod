@@ -6,25 +6,25 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:35:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:08.833730+00:00", 
+  "modified_at": "2016-05-23T15:51:54.507640+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "7e605edb71404df49693acedbc6bbdb4"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nVacunar a tu beb\u00e9 es una de las mejores cosas que puedes hacer como madre. \r\n\r\nRecuerda: t\u00fa y tu beb\u00e9 necesitan vacunarse antes de enfermarse. Una vacuna no puede curar una enfermedad que ya empez\u00f3.\r\n\r\nSi t\u00fa y tu beb\u00e9 est\u00e1n vacunados, pueden defenderse contra enfermedades serias si entran en contacto con ellas. No pueden vacunarse si ya est\u00e1n enfermos, as\u00ed que h\u00e1ganlo cuando los dos est\u00e9n sanos.\r\n\r\nLa vacunaci\u00f3n ayuda a tu beb\u00e9 a combatir algunas de las enfermedades m\u00e1s peligrosas. Esto los proteger\u00e1 a los dos de sufrimiento y angustia. A ninguna madre le gusta ver a su beb\u00e9 enfermo. \r\n\r\nTu beb\u00e9 necesita que lo vacunen cuando est\u00e1 sano y es importante que lo hagas en el momento adecuado.\r\n\r\nTu beb\u00e9 va a necesitar m\u00e1s de 1 dosis de algunas vacunas. Si quieres saber qu\u00e9 vacunas necesita tu beb\u00e9 y cu\u00e1ndo, habla con un doctor en tu cl\u00ednica local. \r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nVacunar a tu beb\u00e9 es una de las mejores cosas que puedes hacer como madre. \r\n\r\nRecuerda: t\u00fa y tu beb\u00e9 necesitan vacunarse antes de enfermarse. Una vacuna no puede curar una enfermedad que ya empez\u00f3.\r\n\r\nSi t\u00fa y tu beb\u00e9 est\u00e1n vacunados, pueden defenderse contra enfermedades serias si entran en contacto con ellas. No pueden vacunarse si ya est\u00e1n enfermos, as\u00ed que h\u00e1ganlo cuando los dos est\u00e9n sanos.\r\n\r\nLa vacunaci\u00f3n ayuda a tu beb\u00e9 a combatir algunas de las enfermedades m\u00e1s peligrosas. Esto los proteger\u00e1 a los dos de sufrimiento y angustia. A ninguna madre le gusta ver a su beb\u00e9 enfermo. \r\n\r\nTu beb\u00e9 necesita que lo vacunen cuando est\u00e1 sano y es importante que lo hagas en el momento adecuado.\r\n\r\nTu beb\u00e9 va a necesitar m\u00e1s de 1 dosis de algunas vacunas. Si quieres saber qu\u00e9 vacunas necesita tu beb\u00e9 y cu\u00e1ndo, habla con un doctor en tu cl\u00ednica local. \r\n\r\n[Las vacunas que necesita tu hijo][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a900274/", 
   "source": "1da672d19b184a83aceeb2dffb148a2e", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 31, 
+  "position": 34, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-why-get-him-vaccinated", 
   "uuid": "e56d96cab6f8446b98ff18a45ec74a17"
