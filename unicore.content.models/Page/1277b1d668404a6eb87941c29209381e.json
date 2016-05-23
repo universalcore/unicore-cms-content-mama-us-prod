@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:30:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:09.303282+00:00", 
+  "modified_at": "2016-05-23T15:45:13.969140+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "cb8fde9c06a5406e97e48af03b93c0db"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nPara los 3 o 4 meses, la mayor\u00eda de los beb\u00e9s duermen 15 horas al d\u00eda. Cerca de 10 de esas horas son de noche. Tu beb\u00e9 dormir\u00e1 el resto del tiempo en siestas durante el d\u00eda. Para cuando tenga 6 meses, tu beb\u00e9 podr\u00eda dormir hasta 7 horas en la noche. Si duerme m\u00e1s tiempo, probablemente se despierta pero se vuelve a dormir sin tu ayuda.\r\n\r\nAl crecer m\u00e1s tu beb\u00e9, dormir\u00e1 de 11 a 12 horas durante la noche. Tambi\u00e9n podr\u00eda dormir dos siestas al d\u00eda, cada una como de 1 hora. Hasta su segundo cumplea\u00f1os, necesitar\u00e1 dormir entre 13 y 14 horas al d\u00eda. \r\n\r\nSi lo acuestas a la misma hora todos los d\u00edas, se va a dormir m\u00e1s f\u00e1cilmente. Esto es porque espera que lo acuesten a dormir. \r\n\r\nTrata de no hacer demasiadas cosas con tu beb\u00e9 si quieres que duerma. En vez de eso, ll\u00e9valo a un lugar oscuro y silencioso. C\u00e1ntale o h\u00e1blale quedito. Esto lo ayudar\u00e1 a relajarse.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nPara los 3 o 4 meses, la mayor\u00eda de los beb\u00e9s duermen 15 horas al d\u00eda. Cerca de 10 de esas horas son de noche. Tu beb\u00e9 dormir\u00e1 el resto del tiempo en siestas durante el d\u00eda. Para cuando tenga 6 meses, tu beb\u00e9 podr\u00eda dormir hasta 7 horas en la noche. Si duerme m\u00e1s tiempo, probablemente se despierta pero se vuelve a dormir sin tu ayuda.\r\n\r\nAl crecer m\u00e1s tu beb\u00e9, dormir\u00e1 de 11 a 12 horas durante la noche. Tambi\u00e9n podr\u00eda dormir dos siestas al d\u00eda, cada una como de 1 hora. Hasta su segundo cumplea\u00f1os, necesitar\u00e1 dormir entre 13 y 14 horas al d\u00eda. \r\n\r\nSi lo acuestas a la misma hora todos los d\u00edas, se va a dormir m\u00e1s f\u00e1cilmente. Esto es porque espera que lo acuesten a dormir. \r\n\r\nTrata de no hacer demasiadas cosas con tu beb\u00e9 si quieres que duerma. En vez de eso, ll\u00e9valo a un lugar oscuro y silencioso. C\u00e1ntale o h\u00e1blale quedito. Esto lo ayudar\u00e1 a relajarse.\r\n\r\n[Cu\u00e1nto sue\u00f1o necesita tu ni\u00f1o (1 mes a 3 a\u00f1os)][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a900964/", 
   "source": "041c17cb1eb348d387155126aa083d50", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 36, 
+  "position": 39, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-when-will-my-baby-sleep", 
   "uuid": "1277b1d668404a6eb87941c29209381e"
