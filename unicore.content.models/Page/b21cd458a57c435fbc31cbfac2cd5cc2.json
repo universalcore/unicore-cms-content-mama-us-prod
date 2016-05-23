@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:47:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:51.519876+00:00", 
+  "modified_at": "2016-05-23T14:00:51.406729+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,13 +24,13 @@
     "b80916dcb01a4a2494ed45edd789ba17"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nLa mejor regla que hay que recordar es tratar de comer cuando tengas hambre. Trata de comer una variedad de alimentos de diferentes colores todos los d\u00edas y subir\u00e1s de peso de manera constante al ir creciendo tu beb\u00e9.\r\n\r\nPodr\u00edas notar que tu apetito cambia durante tu embarazo:\r\n\r\n - \tDurante las primeras semanas podr\u00edas perder el apetito y no tener ganas de comer comidas como debe ser, sobre todo si tienes n\u00e1useas o est\u00e1s vomitando.\r\n\r\n - \tDurante la mitad de tu embarazo, tu apetito podr\u00eda ser igual que antes de estar embarazada o ser un poquito mayor.\r\n\r\n - \tHacia el final de tu embarazo, tu apetito probablemente aumentar\u00e1. Come fruta, verduras, frijoles, nueces, huevos y carne. Expl\u00edcale a tu familia que necesitas m\u00e1s comida para que tu beb\u00e9 crezca sano. Preg\u00fantales si puedes comprar m\u00e1s de estos alimentos. Necesitas un pu\u00f1ado extra de alimento con cada comida. Tambi\u00e9n podr\u00edas necesitar comer algo ligero entre comidas.\r\n\r\nSe te podr\u00edan empezar a antojar ciertos alimentos. A algunas mujeres embarazadas se les antojan cosas que no son de comer, como tierra. Comer tierra u otras cosas que no son para comer puede ser da\u00f1ino para ti y para tu beb\u00e9. No las comas. La tierra puede darte estre\u00f1imiento y lombrices.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nLa mejor regla que hay que recordar es tratar de comer cuando tengas hambre. Trata de comer una variedad de alimentos de diferentes colores todos los d\u00edas y subir\u00e1s de peso de manera constante al ir creciendo tu beb\u00e9.\r\n\r\nPodr\u00edas notar que tu apetito cambia durante tu embarazo:\r\n\r\n - \tDurante las primeras semanas podr\u00edas perder el apetito y no tener ganas de comer comidas como debe ser, sobre todo si tienes n\u00e1useas o est\u00e1s vomitando.\r\n\r\n - \tDurante la mitad de tu embarazo, tu apetito podr\u00eda ser igual que antes de estar embarazada o ser un poquito mayor.\r\n\r\n - \tHacia el final de tu embarazo, tu apetito probablemente aumentar\u00e1. Come fruta, verduras, frijoles, nueces, huevos y carne. Expl\u00edcale a tu familia que necesitas m\u00e1s comida para que tu beb\u00e9 crezca sano. Preg\u00fantales si puedes comprar m\u00e1s de estos alimentos. Necesitas un pu\u00f1ado extra de alimento con cada comida. Tambi\u00e9n podr\u00edas necesitar comer algo ligero entre comidas.\r\n\r\nSe te podr\u00edan empezar a antojar ciertos alimentos. A algunas mujeres embarazadas se les antojan cosas que no son de comer, como tierra. Comer tierra u otras cosas que no son para comer puede ser da\u00f1ino para ti y para tu beb\u00e9. No las comas. La tierra puede darte estre\u00f1imiento y lombrices.\r\n\r\n[Qu\u00e9 significa \"comer por dos\" durante el embarazo][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a13500043/", 
   "source": "58042e872e294cd8837d7423271fef7b", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 21, 
+  "position": 24, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-do-i-need-to-eat-more", 
   "uuid": "b21cd458a57c435fbc31cbfac2cd5cc2"
