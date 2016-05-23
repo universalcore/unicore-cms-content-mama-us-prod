@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:44:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:07.177192+00:00", 
+  "modified_at": "2016-05-23T16:11:41.257536+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "801a0208653043078bc4b06a9a4ca84a"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nLa mayor\u00eda de los beb\u00e9s tratan de pararse por primera vez entre los 8 y los 10 meses. Tu beb\u00e9 podr\u00eda agarrarse de tus manos, la pared o un mueble y jalarse hasta quedar parado.\r\n\r\nAl principio, tu beb\u00e9 necesita agarrarse de ti o de un mueble firme. Para cuando tenga 11 meses, tal vez pueda pararse solito sin que lo agarres. Sonr\u00edele, apl\u00e1udele, dile \u00a1muy bien! y abr\u00e1zalo cuando lo haga.\r\n\r\nA medida que tu beb\u00e9 se sienta m\u00e1s seguro, va a empezar a ir de un lado a otro, todav\u00eda agarr\u00e1ndose de los muebles. Cuando pueda hacer esto, \u00a1quiere decir que pronto va a caminar!\r\n\r\nTu beb\u00e9 podr\u00eda pararse f\u00e1cilmente, \u00a1pero tal vez le sea dif\u00edcil volverse a sentar! Puedes ense\u00f1ar a tu beb\u00e9 a sentarse cuando est\u00e1 parado. En vez de cargarlo y sentarlo, ens\u00e9\u00f1ale c\u00f3mo doblar sus rodillas \u00a1y luego an\u00edmalo a que lo haga! Podr\u00eda llevarle unos d\u00edas o algunas semanas aprender a doblar sus rodillas y sentarse.\r\n\r\nQu\u00e9date con tu beb\u00e9 cuando ande de un lado a otro. As\u00ed, si se cae, puedes asegurarte de que no se lastime. Tambi\u00e9n quiere decir que cuando d\u00e9 su primer paso solo, \u00a1no te lo vas a perder!\r\n\r\nTodos los beb\u00e9s se desarrollan de manera diferente, algunos m\u00e1s r\u00e1pido que otros. Si est\u00e1s preocupada por c\u00f3mo se est\u00e1 desarrollando tu beb\u00e9, habla con un doctor.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nLa mayor\u00eda de los beb\u00e9s tratan de pararse por primera vez entre los 8 y los 10 meses. Tu beb\u00e9 podr\u00eda agarrarse de tus manos, la pared o un mueble y jalarse hasta quedar parado.\r\n\r\nAl principio, tu beb\u00e9 necesita agarrarse de ti o de un mueble firme. Para cuando tenga 11 meses, tal vez pueda pararse solito sin que lo agarres. Sonr\u00edele, apl\u00e1udele, dile \u00a1muy bien! y abr\u00e1zalo cuando lo haga.\r\n\r\nA medida que tu beb\u00e9 se sienta m\u00e1s seguro, va a empezar a ir de un lado a otro, todav\u00eda agarr\u00e1ndose de los muebles. Cuando pueda hacer esto, \u00a1quiere decir que pronto va a caminar!\r\n\r\nTu beb\u00e9 podr\u00eda pararse f\u00e1cilmente, \u00a1pero tal vez le sea dif\u00edcil volverse a sentar! Puedes ense\u00f1ar a tu beb\u00e9 a sentarse cuando est\u00e1 parado. En vez de cargarlo y sentarlo, ens\u00e9\u00f1ale c\u00f3mo doblar sus rodillas \u00a1y luego an\u00edmalo a que lo haga! Podr\u00eda llevarle unos d\u00edas o algunas semanas aprender a doblar sus rodillas y sentarse.\r\n\r\nQu\u00e9date con tu beb\u00e9 cuando ande de un lado a otro. As\u00ed, si se cae, puedes asegurarte de que no se lastime. Tambi\u00e9n quiere decir que cuando d\u00e9 su primer paso solo, \u00a1no te lo vas a perder!\r\n\r\nTodos los beb\u00e9s se desarrollan de manera diferente, algunos m\u00e1s r\u00e1pido que otros. Si est\u00e1s preocupada por c\u00f3mo se est\u00e1 desarrollando tu beb\u00e9, habla con un doctor.\r\n\r\n[Gatear][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a900442/", 
   "source": "869d1d150bc543a788e480fa473758b5", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "cuando-se-va-parar-mi-bebe", 
   "uuid": "759a985df05045cc953173e50ac8d001"
