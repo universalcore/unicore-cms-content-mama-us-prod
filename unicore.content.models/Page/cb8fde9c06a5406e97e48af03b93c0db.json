@@ -6,12 +6,12 @@
   "primary_category": "9f95d5358b1d4f35bcc0b007cae0396e", 
   "created_at": "2015-03-31T08:28:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:34:09.517750+00:00", 
+  "modified_at": "2016-05-23T15:40:02.992881+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "5bb3d463c9db4b9eb5e80e431ecb68d5"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\n\u00a1Los beb\u00e9s reci\u00e9n nacidos duermen mucho! Tu beb\u00e9 puede dormir hasta 18 horas al d\u00eda durante las primeras semanas.\r\n\r\nTal vez no duerma m\u00e1s de 3 o 4 horas a la vez, de d\u00eda o de noche. Esto quiere decir que t\u00fa tampoco vas a dormir mucho tiempo seguido.\r\n\r\nTu beb\u00e9 duerme ratos m\u00e1s cortos que un adulto, y su sue\u00f1o es mucho m\u00e1s ligero. Este tipo de sue\u00f1o es una parte normal del desarrollo de su cerebro.\r\n\r\nCuando tenga de 6 a 8 semanas dormir\u00e1 m\u00e1s tiempo y m\u00e1s profundamente. La mayor\u00eda de los beb\u00e9s a esa edad empiezan a dormir menos durante el d\u00eda y m\u00e1s durante la noche. Sin embargo, todav\u00eda despiertan para tomar su leche durante la noche.\r\n\r\nAlgunos beb\u00e9s duermen toda la noche cuando tienen tan solo 8 semanas de edad. Pero es m\u00e1s probable que interrumpa tus noches durante al menos 5 o 6 meses. Trata de dormir cuando duerma tu beb\u00e9. Duerme siestas durante el d\u00eda. Esto te ayudar\u00e1 a tener suficiente energ\u00eda.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\n\u00a1Los beb\u00e9s reci\u00e9n nacidos duermen mucho! Tu beb\u00e9 puede dormir hasta 18 horas al d\u00eda durante las primeras semanas.\r\n\r\nTal vez no duerma m\u00e1s de 3 o 4 horas a la vez, de d\u00eda o de noche. Esto quiere decir que t\u00fa tampoco vas a dormir mucho tiempo seguido.\r\n\r\nTu beb\u00e9 duerme ratos m\u00e1s cortos que un adulto, y su sue\u00f1o es mucho m\u00e1s ligero. Este tipo de sue\u00f1o es una parte normal del desarrollo de su cerebro.\r\n\r\nCuando tenga de 6 a 8 semanas dormir\u00e1 m\u00e1s tiempo y m\u00e1s profundamente. La mayor\u00eda de los beb\u00e9s a esa edad empiezan a dormir menos durante el d\u00eda y m\u00e1s durante la noche. Sin embargo, todav\u00eda despiertan para tomar su leche durante la noche.\r\n\r\nAlgunos beb\u00e9s duermen toda la noche cuando tienen tan solo 8 semanas de edad. Pero es m\u00e1s probable que interrumpa tus noches durante al menos 5 o 6 meses. Trata de dormir cuando duerma tu beb\u00e9. Duerme siestas durante el d\u00eda. Esto te ayudar\u00e1 a tener suficiente energ\u00eda.\r\n\r\n[Las primeras 24 horas: el sue\u00f1o de tu beb\u00e9][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a25007839/", 
   "source": "28942b7f7b7a4cca9f38b7c6002b5e1b", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 39, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-how-much-will-baby-sleep", 
   "uuid": "cb8fde9c06a5406e97e48af03b93c0db"
