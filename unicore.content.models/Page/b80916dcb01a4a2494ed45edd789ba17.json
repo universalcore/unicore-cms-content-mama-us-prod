@@ -6,12 +6,12 @@
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
   "created_at": "2015-03-26T12:46:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-23T11:33:51.594043+00:00", 
+  "modified_at": "2016-05-23T13:59:39.779625+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,13 +24,13 @@
     "cb72ae651cea49bda3a1c722a1c6040d"
   ], 
   "id": null, 
-  "content": "Creado por BabyCenter\r\n\r\nAhora que est\u00e1s embarazada, es importante que trates de comer bien para que tu beb\u00e9 crezca bien. T\u00fa y tu beb\u00e9 necesitan muchos alimentos diferentes. \r\n\r\n\u00a1Una forma f\u00e1cil de hacerlo es comer alimentos de muchos colores diferentes! \r\n\r\nPodr\u00edas hablar con tu familia sobre la comida que necesitas.\r\n\r\nTrata de comer algunos de estos tipos de alimentos todos los d\u00edas:\r\n\r\n - \tFrutas y verduras. Estos ayudan a que tu beb\u00e9 sea saludable.\r\n\r\n - \tAlimentos ricos en almid\u00f3n. Estos incluyen pan, arroz, pasta, papas y calabaza. Estos alimentos te dan energ\u00eda.\r\n\r\n - \tAlimentos ricos en prote\u00ednas. Estos incluyen huevos, verduras de hojas verde oscuro, nueces, pollo, pescado y carne. Estas ayudan a que tu beb\u00e9 crezca bien.\r\n\r\n - \tAlimentos ricos en calcio y l\u00e1cteos. Estos incluyen tortillas de ma\u00edz, leche, leche de soya y br\u00f3coli. Ayudan a tu beb\u00e9 a desarrollar huesos fuertes.\r\n\r\n", 
+  "content": "Creado por BabyCenter\r\n\r\nAhora que est\u00e1s embarazada, es importante que trates de comer bien para que tu beb\u00e9 crezca bien. T\u00fa y tu beb\u00e9 necesitan muchos alimentos diferentes. \r\n\r\n\u00a1Una forma f\u00e1cil de hacerlo es comer alimentos de muchos colores diferentes! \r\n\r\nPodr\u00edas hablar con tu familia sobre la comida que necesitas.\r\n\r\nTrata de comer algunos de estos tipos de alimentos todos los d\u00edas:\r\n\r\n - \tFrutas y verduras. Estos ayudan a que tu beb\u00e9 sea saludable.\r\n\r\n - \tAlimentos ricos en almid\u00f3n. Estos incluyen pan, arroz, pasta, papas y calabaza. Estos alimentos te dan energ\u00eda.\r\n\r\n - \tAlimentos ricos en prote\u00ednas. Estos incluyen huevos, verduras de hojas verde oscuro, nueces, pollo, pescado y carne. Estas ayudan a que tu beb\u00e9 crezca bien.\r\n\r\n - \tAlimentos ricos en calcio y l\u00e1cteos. Estos incluyen tortillas de ma\u00edz, leche, leche de soya y br\u00f3coli. Ayudan a tu beb\u00e9 a desarrollar huesos fuertes.\r\n\r\n\r\n\r\n[Doce pasos a seguir para un embarazo saludable][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a600004", 
   "source": "af0e6aa0e4944aad8ba00c78294161fb", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 22, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "spa-should-i-eat-differently", 
   "uuid": "b80916dcb01a4a2494ed45edd789ba17"
