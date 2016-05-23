@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "281015d4129d4bfa91a5c2e402214fa9", 
+    "e31a780c67a94b529f33617bf54a449c"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nDesde el momento en que nace tu beb\u00e9, est\u00e1 aprendiendo a hablar. \r\n\r\nSu primera forma de hablar contigo es llorando. Llora cuando tiene hambre, o cuando se siente inc\u00f3modo o cansado. \r\n\r\nAl ir creciendo, tu beb\u00e9 te escucha y escucha a la gente a su alrededor y empieza a tratar de copiarlos. \u00a1Quiere hablar contigo!\r\n\r\nMira a tu beb\u00e9 a los ojos y h\u00e1blale lo m\u00e1s que puedas. Se\u00f1ala a las personas y las cosas cuando hables sobre ellas.\r\n\r\nEntre los 3 y los 4 meses, llora menos y hace m\u00e1s sonidos. Empieza a reconocer su nombre. Trata de llamarlo por su nombre cuando est\u00e9s cerca de \u00e9l y ve si responde.\r\n\r\nEntre los 5 y los 6 meses, tu beb\u00e9 hace sonidos para atraer tu atenci\u00f3n, y balbucea mientras juega. Podr\u00eda decir sonidos como \u2018ba\u2019 o \u2018ma\u2019 una y otra vez.\r\n\r\nEntre los 7 meses y 1 a\u00f1o tu beb\u00e9 prueba nuevos sonidos y trata de copiar lo que dices. Tambi\u00e9n reconoce los nombres de objetos conocidos, como \"taza\". Cuando tenga como 1 a\u00f1o, podr\u00eda empezar a usar una o m\u00e1s palabras y saber lo que quieren decir.\r\n\r\nSi est\u00e1s preocupada porque tu beb\u00e9 no est\u00e1 diciendo ninguna palabra para cuando tenga 15 meses, habla con un doctor.\r\n\r\n[Hablar][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/a2600010/", 
   "source": "cdfa722ec9254bdfa1d614d6018a4bd0", 
