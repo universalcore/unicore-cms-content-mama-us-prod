@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f1c096ba9a3c4cd7a4e3f19b4f037b4b", 
+    "06fe7c699fad4d79937fa7e3f4fa600d"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\n\u00a1Comer alimentos s\u00f3lidos es un gran paso!\r\n\r\nPuedes saber cu\u00e1ndo est\u00e1 lista tu beb\u00e9 para empezar a comer alimentos s\u00f3lidos. Esto ser\u00e1 cuando tenga m\u00e1s de 6 meses de edad. Una beb\u00e9 que est\u00e1 lista para empezar a comer alimentos s\u00f3lidos por lo general puede hacer estas cosas:\r\n\r\n - \tSostiene la cabeza.\r\n\r\n - \tSe sienta bien cuando la sostienen. Al principio tal vez tengas que sentar a tu beb\u00e9 en tus piernas.\r\n\r\n - \tHace movimientos como de masticar. Tu beb\u00e9 debe poder mover comida a la parte de atr\u00e1s de su boquita y tragar.\r\n\r\n - \tTiene curiosidad por lo que est\u00e1s comiendo. Cuando los beb\u00e9s ven tu comida y estiran las manitas para agarrarla, es se\u00f1al de que est\u00e1n listos para comer alimentos s\u00f3lidos.\r\n\r\n - \tTiene un peso saludable. La mayor\u00eda de los beb\u00e9s est\u00e1n listos para comer alimentos s\u00f3lidos cuando pesan lo doble de lo que pesaron al nacer. Esto pasa, por lo general, hacia los 6 meses.\r\n\r\nTu beb\u00e9 podr\u00eda mostrar esas se\u00f1ales antes de los 6 meses, pero es m\u00e1s seguro que esperes hasta que tenga 6 meses antes de darle comida molida. Para entonces su aparato digestivo es m\u00e1s fuerte. Esto quiere decir que es menos probable que tenga un problema de est\u00f3mago o una mala reacci\u00f3n a la comida.\r\n\r\n[\u00bfCu\u00e1ndo deber\u00eda empezar a dar alimentos s\u00f3lidos a mi beb\u00e9?][1]\r\n\r\n\r\n  [1]: http://espanol.babycenter.com/x2000001/", 
   "source": "c80bf31dd4cc44baa6847b1334749215", 
