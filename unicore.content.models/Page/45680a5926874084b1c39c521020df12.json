@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T10:51:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T10:45:36.263396+00:00", 
+  "modified_at": "2016-05-24T10:52:06.030605+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "6e33189cf632465eb12b1bd8f45140b5"
   ], 
   "id": null, 
-  "content": "Created by babyCenter\r\n\r\n\r\nEven if you've never felt breathless before, like lots of women, you may sometimes feel breathless now. This is normal. Your body is adapting, and growing a baby!\r\n\r\nYou can help your breathing by keeping away from dirty air and smoky places.\r\n\r\nDo you smoke? Stop, or cut down now. It is bad for your health and for your baby\u2019s health. Remember, you can save the money you spend on smoking to buy things you will need during pregnancy and for the baby.\r\n\r\nAsk your family to smoke outside.\r\n\r\nIf you are breathless all the time, you may be anemic. This means your body lacks iron. Taking iron tablets will help. You can also make sure you eat a variety of different foods like leafy vegetables, eggs, fruit, beans, lentils and poultry. They all help your body to get iron.\r\n\r\n", 
+  "content": "Created by babyCenter\r\n\r\n\r\nEven if you've never felt breathless before, like lots of women, you may sometimes feel breathless now. This is normal. Your body is adapting, and growing a baby!\r\n\r\nYou can help your breathing by keeping away from dirty air and smoky places.\r\n\r\nDo you smoke? Stop, or cut down now. It is bad for your health and for your baby\u2019s health. Remember, you can save the money you spend on smoking to buy things you will need during pregnancy and for the baby.\r\n\r\nAsk your family to smoke outside.\r\n\r\nIf you are breathless all the time, you may be anemic. This means your body lacks iron. Taking iron tablets will help. You can also make sure you eat a variety of different foods like leafy vegetables, eggs, fruit, beans, lentils and poultry. They all help your body to get iron.\r\n\r\n[Shortness of breath during pregnancy][1]\r\n\r\n\r\n  [1]: http://www.babycenter.com/0_shortness-of-breath-during-pregnancy_219.bc", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 85, 
+  "position": 88, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-am-i-breathless", 
   "uuid": "45680a5926874084b1c39c521020df12"
