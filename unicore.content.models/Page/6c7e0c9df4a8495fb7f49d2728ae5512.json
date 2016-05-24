@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T10:46:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T10:40:40.664784+00:00", 
+  "modified_at": "2016-05-24T09:27:12.077183+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,13 +23,13 @@
     "fd64a27036e1414a91f4366530527600"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\nHigh blood pressure can mean that your baby does not get all the food and oxygen he  needs, so he may be born very small and weak. It can also make you very ill, and cause seizures, especially in later pregnancy.\r\n\r\nYou may not know that you have high blood pressure, until it is discovered at a prenatal visit. This is because symptoms are often difficult to detect. So it is important to see a healthcare provider regularly, to check your blood pressure while you are pregnant.\r\n\r\nA wide cuff will be put around your arm to measure your blood pressure. It will not hurt but it feels tight for a few moments. The healthcare provider will write the results down so that you have a record of your blood pressure at each visit. She will compare the measurements at each visit so she can spot any problems.\r\n\r\nYou are more likely to get high blood pressure if you are very overweight. Do not add salt to food. If you already have high blood pressure, this will make it worse.\r\n\r\nThere are medicines to control high blood pressure. See a healthcare provider regularly, so any problems can be found early and you can get the right medicine. \r\n\r\n\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nHigh blood pressure can mean that your baby does not get all the food and oxygen he  needs, so he may be born very small and weak. It can also make you very ill, and cause seizures, especially in later pregnancy.\r\n\r\nYou may not know that you have high blood pressure, until it is discovered at a prenatal visit. This is because symptoms are often difficult to detect. So it is important to see a healthcare provider regularly, to check your blood pressure while you are pregnant.\r\n\r\nA wide cuff will be put around your arm to measure your blood pressure. It will not hurt but it feels tight for a few moments. The healthcare provider will write the results down so that you have a record of your blood pressure at each visit. She will compare the measurements at each visit so she can spot any problems.\r\n\r\nYou are more likely to get high blood pressure if you are very overweight. Do not add salt to food. If you already have high blood pressure, this will make it worse.\r\n\r\nThere are medicines to control high blood pressure. See a healthcare provider regularly, so any problems can be found early and you can get the right medicine. \r\n\r\n[Chronic hypertension during pregnancy][1]\r\n\r\n\r\n  [1]: http://www.babycenter.com/0_chronic-hypertension-during-pregnancy_1427404.bc", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 91, 
+  "position": 94, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-high-blood-pressure", 
   "uuid": "6c7e0c9df4a8495fb7f49d2728ae5512"
