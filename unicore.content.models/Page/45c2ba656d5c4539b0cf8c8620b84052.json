@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T10:42:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T10:37:07.868307+00:00", 
+  "modified_at": "2016-05-24T09:09:53.756775+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "5e85051ac36b4978a70184e9f1d43af3"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\nIt is common to get headaches during pregnancy, particularly in the first 3 months.\r\n\r\nHeadaches and migraines may be caused by pregnancy hormones. Feeling tired or stressed can tense your muscles and give you a headache. Missing meals and feeling hungry might bring on a headache. Or having more sleep than usual, or too little sleep. \r\n\r\nHere are some things you can do: \r\n\r\n\u2022\tMake sure you take a break during the day and rest. Explain to your family while your body is growing a baby, you need more rest. Sit or lie down somewhere quiet, and sleep if you need to.\r\n\r\n\u2022\tDip a cloth in warm water and squeeze out to make a warm pad. Put it around your eyes and nose. Or you could try a cool cloth on your forehead or at the base of your neck.\r\n\r\n\u2022\tAsk someone to massage your neck and shoulders.\r\n\r\n**Danger signs?** Headache, blurred vision and pain under your ribs can be signs of high blood pressure. Go to see a healthcare provider as soon as you can if you feel like this\r\n\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\nIt is common to get headaches during pregnancy, particularly in the first 3 months.\r\n\r\nHeadaches and migraines may be caused by pregnancy hormones. Feeling tired or stressed can tense your muscles and give you a headache. Missing meals and feeling hungry might bring on a headache. Or having more sleep than usual, or too little sleep. \r\n\r\nHere are some things you can do: \r\n\r\n\u2022\tMake sure you take a break during the day and rest. Explain to your family while your body is growing a baby, you need more rest. Sit or lie down somewhere quiet, and sleep if you need to.\r\n\r\n\u2022\tDip a cloth in warm water and squeeze out to make a warm pad. Put it around your eyes and nose. Or you could try a cool cloth on your forehead or at the base of your neck.\r\n\r\n\u2022\tAsk someone to massage your neck and shoulders.\r\n\r\n**Danger signs?** Headache, blurred vision and pain under your ribs can be signs of high blood pressure. Go to see a healthcare provider as soon as you can if you feel like this\r\n\r\n[Headaches during pregnancy][1]\r\n\r\n\r\n  [1]: http://www.babycenter.com/0_headaches-during-pregnancy_2035.bc", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 95, 
+  "position": 98, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-do-i-get-headaches", 
   "uuid": "45c2ba656d5c4539b0cf8c8620b84052"
