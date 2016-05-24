@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2016-01-05T11:21:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T10:55:34.828422+00:00", 
+  "modified_at": "2016-05-24T11:21:44.447520+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "7cfab7e3e5a740e3a0e46ab8273a71b2"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nIt is better not to drink alcohol while you are pregnant, or while you are breastfeeding. This will keep your baby safe and healthy. \r\n\r\nA small amount of alcohol is usually safe, and if you had a small amount of alcohol before you knew you were pregnant, do not worry. But it is best not to drink any alcohol while you are pregnant. \r\n\r\nHere\u2019s why. Alcohol is a harmful substance. When you drink alcohol, it rapidly reaches your baby via your bloodstream. Heavy drinking can cause pregnancy loss and preterm birth. Too much alcohol can even increase the risk of your baby being stillborn.\r\n\r\nIf you drink too much alcohol during pregnancy, it can damage your developing baby's cells forever. This could affect how your baby's face, organs and brain grow.\r\n\r\n\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nIt is better not to drink alcohol while you are pregnant, or while you are breastfeeding. This will keep your baby safe and healthy. \r\n\r\nA small amount of alcohol is usually safe, and if you had a small amount of alcohol before you knew you were pregnant, do not worry. But it is best not to drink any alcohol while you are pregnant. \r\n\r\nHere\u2019s why. Alcohol is a harmful substance. When you drink alcohol, it rapidly reaches your baby via your bloodstream. Heavy drinking can cause pregnancy loss and preterm birth. Too much alcohol can even increase the risk of your baby being stillborn.\r\n\r\nIf you drink too much alcohol during pregnancy, it can damage your developing baby's cells forever. This could affect how your baby's face, organs and brain grow.\r\n\r\n[Drinking alcohol during pregnancy][1]\r\n\r\n\r\n  [1]: http://www.babycenter.com/0_drinking-alcohol-during-pregnancy_3542.bc", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 74, 
+  "position": 77, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "can-i-drink-alcohol", 
   "uuid": "840d289a63ce4a9fa0ad1c2cfc5dd0fd"
