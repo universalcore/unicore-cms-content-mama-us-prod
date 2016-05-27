@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2016-01-05T12:08:06+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-18T11:41:58.770216+00:00", 
+  "modified_at": "2016-05-27T12:34:13.978844+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,13 +19,13 @@
     "ed8ba8268ed54966bde2a26400469d3f"
   ], 
   "id": null, 
-  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nFood is what your baby needs to get her strength back.\r\n\r\nAll babies get sick sometimes. It is sad to see your baby sick, but you can help her to get well by giving her the right care and treatment, and by continuing to feed her well.\r\n\r\nIf your baby is less than 6 months old, your breastmilk will help her to get better. Your breastmilk is healthy. It will help your baby get stronger. If your baby has loose stools or diarrhea,, breastmilk is gentle for  her stomach, and will give your baby her all the nutrients she is losing while she is sick.\r\n\r\nIf your baby is over 6 months old, continue to feed her mashed family foods. Add a little butter or oil to make it even better. Even if she is vomiting or has diarrhea, she still needs to eat. Food will help her to recover.\r\n\r\nIf  your baby refuses to eat, offer her small amounts of food, often, through the day. This will help her body to recover.\r\n\r\nIf your baby is still sick after a day, or the diarrhea lasts longer than a day, take her to the healthcare provider.\r\n\r\nWhen your baby begins to feel better, offer her 2 extra meals a day for 2 weeks. This will help her get back to her usual health.\r\n\r\n\r\n", 
+  "content": "Created by BabyCenter\r\n\r\n\r\n\r\nFood is what your baby needs to get her strength back.\r\n\r\nAll babies get sick sometimes. It is sad to see your baby sick, but you can help her to get well by giving her the right care and treatment, and by continuing to feed her well.\r\n\r\nIf your baby is less than 6 months old, your breastmilk will help her to get better. Your breastmilk is healthy. It will help your baby get stronger. If your baby has loose stools or diarrhea,, breastmilk is gentle for  her stomach, and will give your baby her all the nutrients she is losing while she is sick.\r\n\r\nIf your baby is over 6 months old, continue to feed her mashed family foods. Add a little butter or oil to make it even better. Even if she is vomiting or has diarrhea, she still needs to eat. Food will help her to recover.\r\n\r\nIf  your baby refuses to eat, offer her small amounts of food, often, through the day. This will help her body to recover.\r\n\r\nIf your baby is still sick after a day, or the diarrhea lasts longer than a day, take her to the healthcare provider.\r\n\r\nWhen your baby begins to feel better, offer her 2 extra meals a day for 2 weeks. This will help her get back to her usual health.\r\n\r\n[Diarrhea in babies][1]\r\n\r\n\r\n  [1]: http://www.babycenter.com/0_diarrhea-in-babies_82.bc?page=2#articlesection3", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 26, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "can-i-feed-my-sick-baby", 
   "uuid": "7c92774349764ba09c8e442b7aba4a3e"
